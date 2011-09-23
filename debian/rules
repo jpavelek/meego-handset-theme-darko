@@ -1,0 +1,42 @@
+#!/usr/bin/make -f
+
+clean:
+	dh_testdir
+	dh_testroot
+	rm -f build-stamp
+	rm -rf debian/build debian/tmp
+	dh_clean
+
+build:
+
+install: 
+	dh_testdir
+	dh_testroot
+	dh_clean -k
+	dh_installdirs
+	INSTALL_ROOT=$(CURDIR)/debian/tmp make install
+
+# Build architecture-dependent files here.
+binary-arch: install
+	dh_testdir
+	dh_testroot
+	dh_installchangelogs
+	dh_installdocs
+	dh_install --sourcedir=debian/build -v
+	dh_installman
+	dh_link
+	dh_strip
+	dh_compress
+	dh_makeshlibs
+	dh_installdeb
+	dh_shlibdeps
+	dh_gencontrol
+	dh_md5sums
+	dh_builddeb
+
+binary: binary-arch
+.PHONY: clean binary-arch binary install
+
+
+
+		
