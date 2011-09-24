@@ -5,11 +5,8 @@ Summary:	Darko-lite is a theme for MeeGo Handset
 Group:		User Interface/Desktops
 License:	Creative Commons Attribution-NonCommercial 3.0 Unported License
 URL:		https://github.com/jpavelek/meego-handset-theme-darko
-Source0:	
-BuildRoot:	%{_tmppath}/%{name}-%{version}-%{release}-root-%(%{__id_u} -n)
-
-BuildRequires:	
-Requires:	
+Source0:	file://darko-lite.tgz
+BuildRoot:	%{_tmppath}/%{name}-%{version}-%{release}-root
 
 %description
 Darko-lite is a theme for MeeGo Handset. 
