@@ -1,0 +1,227 @@
+/* MNavigationBarStyle : MWidgetStyle */
+MNavigationBarStyle {
+    vertical-align: top;
+    horizontal-align: left;
+
+    item-spacing: 0;
+    button-animation-length: 500;
+    height: 50mm; /* is "height" used? doesnt seem to affect anything.. */
+
+    padding-left:   $WIDTH_HOMECLOSEBUTTON; /* space for square button */
+    padding-right:  0;
+
+    drop-shadow-image: none;
+    has-title: true;
+    has-close-button: true;
+
+    offset: 0 0;
+
+    escape-button-slot-style-name: "MNavigationBarEscapeButtonSlot";
+    close-button-style-name: "MNavigationBarCloseButton";
+    back-button-style-name: "MNavigationBarBackButton";
+    menu-button-style-name: "MNavigationBarMenuButton";
+}
+
+MNavigationBarStyle.Landscape {
+    minimum-size: 100% $HEIGHT_NAVIGATIONBAR_LANDSCAPE;
+    preferred-size: 100% $HEIGHT_NAVIGATIONBAR_LANDSCAPE;
+    maximum-size: 100% $HEIGHT_NAVIGATIONBAR_LANDSCAPE;
+
+    background-image: "meegotouch-navigationbar-background-buddy" 
+}
+
+MNavigationBarStyle.Portrait {
+    minimum-size: 100% $HEIGHT_NAVIGATIONBAR_PORTRAIT;
+    preferred-size: 100% $HEIGHT_NAVIGATIONBAR_PORTRAIT;
+    maximum-size: 100% $HEIGHT_NAVIGATIONBAR_PORTRAIT;
+
+    background-image: "meegotouch-navigationbar-background-buddy"
+}
+
+#MNavigationBarEscapeButtonSlot
+{
+    minimum-size: $WIDTH_HOMECLOSEBUTTON $HEIGHT_NAVIGATIONBAR_PORTRAIT;
+    maximum-size: $WIDTH_HOMECLOSEBUTTON $HEIGHT_NAVIGATIONBAR_PORTRAIT;
+    preferred-size: $WIDTH_HOMECLOSEBUTTON $HEIGHT_NAVIGATIONBAR_PORTRAIT;
+}
+
+#MNavigationBarCloseButton
+{
+    icon-id: "icon-m-framework-close";
+    icon-size: $SIZE_ICON_LARGE $SIZE_ICON_LARGE;
+
+    minimum-size: $WIDTH_HOMECLOSEBUTTON $HEIGHT_NAVIGATIONBAR_PORTRAIT;
+    maximum-size: $WIDTH_HOMECLOSEBUTTON $HEIGHT_NAVIGATIONBAR_PORTRAIT;
+    preferred-size: $WIDTH_HOMECLOSEBUTTON $HEIGHT_NAVIGATIONBAR_PORTRAIT;
+
+    reactive-margin-left: $MARGIN_XLARGE;
+    reactive-margin-right: $MARGIN_XLARGE;
+    reactive-margin-bottom: $MARGIN_XLARGE;
+}
+
+#MNavigationBarBackButton
+{
+    icon-id: "icon-m-framework-back";
+    icon-size: $SIZE_ICON_LARGE $SIZE_ICON_LARGE;
+
+    minimum-size: $WIDTH_HOMECLOSEBUTTON $HEIGHT_NAVIGATIONBAR_PORTRAIT;
+    maximum-size: $WIDTH_HOMECLOSEBUTTON $HEIGHT_NAVIGATIONBAR_PORTRAIT;
+    preferred-size: $WIDTH_HOMECLOSEBUTTON $HEIGHT_NAVIGATIONBAR_PORTRAIT;
+
+    reactive-margin-left: $MARGIN_XLARGE;
+    reactive-margin-right: $MARGIN_XLARGE;
+    reactive-margin-bottom: $MARGIN_XLARGE;
+}
+#MNavigationBarBackButton.Landscape
+{
+    minimum-size: $WIDTH_HOMECLOSEBUTTON $HEIGHT_NAVIGATIONBAR_LANDSCAPE;
+    preferred-size: $WIDTH_HOMECLOSEBUTTON $HEIGHT_NAVIGATIONBAR_LANDSCAPE;
+    maximum-size: $WIDTH_HOMECLOSEBUTTON $HEIGHT_NAVIGATIONBAR_LANDSCAPE;
+}
+
+MApplicationMenuButtonStyle {
+    text-color: $COLOR_INVERTED_FOREGROUND; /* this doesnt work, set below in the label rule */
+
+    horizontal-text-align: left;
+
+    arrow-icon: "icon-m-toolbar-view-menu";
+    arrow-icon-size: 3.2mm 3.2mm;
+
+    background-color:;
+    background-image:;
+
+    padding-left:   $PADDING_LARGE;
+    padding-right:  $PADDING_LARGE;
+
+    margin-top: 0;
+    text-margin-left: 0;
+
+    icon-size : 3.2mm 3.2mm;
+    font: $FONT_DEFAULT;
+
+    preferred-size: 300 $HEIGHT_NAVIGATIONBAR_PORTRAIT;
+    minimum-size: 100 $HEIGHT_NAVIGATIONBAR_PORTRAIT;
+    maximum-size: -1 $HEIGHT_NAVIGATIONBAR_PORTRAIT;
+}
+
+MApplicationMenuButtonStyle :pressed
+{
+    background-image: ;
+}
+
+#NavigationBarMenuButtonLabel {
+
+    color: $COLOR_INVERTED_FOREGROUND;
+
+    preferred-size: 100% -1;
+    minimum-size: 0 0;
+    maximum-size: 100% 100%;
+}
+
+#NavigationBarMenuButtonIconImage {
+    margin-left: 0;
+    margin-top: 0;
+    margin-right: $MARGIN_DOUBLE;
+    margin-bottom: 0;
+
+    padding-left: 0;
+    padding-top: 0;
+    padding-right: 0;
+    padding-bottom: 0;
+
+    minimum-size: 3.2mm 3.2mm;
+    preferred-size: 3.2mm 3.2mm;
+    maximum-size: 3.2mm 3.2mm;
+}
+
+#NavigationBarMenuButtonArrowImage {
+    margin-left: $MARGIN_DOUBLE;
+    margin-top: 0;
+    margin-right: 0;
+    margin-bottom: 0;
+
+    padding-left: 0;
+    padding-top: 0;
+    padding-right: 0;
+    padding-bottom: 0;
+
+    minimum-size: 3.2mm 3.2mm;
+    preferred-size: 3.2mm 3.2mm;
+    maximum-size: 3.2mm 3.2mm;
+}
+
+
+/*********** Inverted Style *************/
+
+#MNavigationBarStyleInverted {
+    close-button-style-name: "MNavigationBarCloseButtonInverted";
+    back-button-style-name: "MNavigationBarBackButtonInverted";
+    menu-button-style-name: "MNavigationBarMenuButtonInverted";
+}
+
+#MNavigationBarStyleInverted.Landscape {
+    background-image: "meegotouch-tabbar-landscape-bottom-inverted-background" 27px 27px 27px 27px;
+}
+
+#MNavigationBarStyleInverted.Portrait {
+    background-image: "meegotouch-tabbar-portrait-bottom-inverted-background" 35px 35px 35px 35px;
+}
+
+#MNavigationBarCloseButtonInverted {
+    icon-id: "icon-m-toolbar-close-white";
+}
+
+#MNavigationBarBackButtonInverted {
+    icon-id: "icon-m-toolbar-back-white";
+    icon-size: 5.2mm 5.2mm;
+
+    minimum-size: $WIDTH_HOMECLOSEBUTTON $HEIGHT_NAVIGATIONBAR_PORTRAIT;
+    preferred-size: $WIDTH_HOMECLOSEBUTTON $HEIGHT_NAVIGATIONBAR_PORTRAIT;
+    maximum-size: $WIDTH_HOMECLOSEBUTTON $HEIGHT_NAVIGATIONBAR_PORTRAIT;
+}
+
+#MNavigationBarBackButtonInverted.Landscape {
+    icon-id: "icon-m-toolbar-back-landscape-white";
+    icon-size: 4.0mm 4.0mm;
+
+    minimum-size: $WIDTH_HOMECLOSEBUTTON $HEIGHT_NAVIGATIONBAR_LANDSCAPE;
+    maximum-size: $WIDTH_HOMECLOSEBUTTON $HEIGHT_NAVIGATIONBAR_LANDSCAPE;
+    preferred-size: $WIDTH_HOMECLOSEBUTTON $HEIGHT_NAVIGATIONBAR_LANDSCAPE;
+}
+
+#MNavigationBarBackButtonInverted.Landscape:pressed {
+    icon-id: "icon-m-toolbar-back-landscape-white-selected";
+    icon-size: 4.0mm 4.0mm;
+}
+
+#MNavigationBarBackButtonInverted.Landscape:selected {
+    icon-id: "icon-m-toolbar-back-landscape-white-selected";
+    icon-size: 4.0mm 4.0mm;
+}
+
+#MNavigationBarBackButtonInverted.Landscape:disabled {
+    icon-id: "icon-m-toolbar-back-landscape-dimmed-white";
+    icon-size: 4.0mm 4.0mm;
+}
+
+#MNavigationBarMenuButtonInverted {
+    icon-id: "icon-m-toolbar-view-menu-white";
+    icon-size: 4.0mm 4.0mm;
+
+    minimum-size: $WIDTH_HOMECLOSEBUTTON $HEIGHT_NAVIGATIONBAR_LANDSCAPE;
+    preferred-size: $WIDTH_HOMECLOSEBUTTON $HEIGHT_NAVIGATIONBAR_LANDSCAPE;
+    maximum-size: $WIDTH_HOMECLOSEBUTTON $HEIGHT_NAVIGATIONBAR_LANDSCAPE;
+}
+
+#MNavigationBarMenuButtonInverted.Portrait
+{
+    minimum-size: $WIDTH_HOMECLOSEBUTTON $HEIGHT_NAVIGATIONBAR_PORTRAIT;
+    preferred-size: $WIDTH_HOMECLOSEBUTTON $HEIGHT_NAVIGATIONBAR_PORTRAIT;
+    maximum-size: $WIDTH_HOMECLOSEBUTTON $HEIGHT_NAVIGATIONBAR_PORTRAIT;
+}
+
+#MNavigationBarStyleInverted MApplicationMenuButtonStyleInverted {
+    arrow-icon: "icon-m-framework-viewmenu-arrow";
+    background-color:;
+}
+
