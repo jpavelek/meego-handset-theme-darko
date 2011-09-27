@@ -27,7 +27,7 @@ MNavigationBarStyle.Landscape {
     preferred-size: 100% $HEIGHT_NAVIGATIONBAR_LANDSCAPE;
     maximum-size: 100% $HEIGHT_NAVIGATIONBAR_LANDSCAPE;
 
-    background-image: "meegotouch-navigationbar-background-buddy" 
+    background-image: "meegotouch-navigationbar-landscape-background" 
 }
 
 MNavigationBarStyle.Portrait {
@@ -35,7 +35,7 @@ MNavigationBarStyle.Portrait {
     preferred-size: 100% $HEIGHT_NAVIGATIONBAR_PORTRAIT;
     maximum-size: 100% $HEIGHT_NAVIGATIONBAR_PORTRAIT;
 
-    background-image: "meegotouch-navigationbar-background-buddy"
+    background-image: "meegotouch-navigationbar-portrait-background"
 }
 
 #MNavigationBarEscapeButtonSlot
