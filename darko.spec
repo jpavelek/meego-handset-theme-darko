@@ -19,6 +19,7 @@ Darko is a theme for MeeGo Handset.  Besides icon set it brings some small themi
 
 %install
 rm -rf %{buildroot}
+mkdir -p %{buildroot}/usr/share/themes/darko/
 install -m 755 index.theme %{buildroot}/usr/share/themes/darko/
 mkdir -p %{buildroot}/usr/share/themes/darko/meegotouch/icons
 install -m 755 meegotouch/icons/* %{buildroot}/usr/share/themes/darko/meegotouch/icons/
@@ -28,7 +29,9 @@ mkdir -p %{buildroot}/usr/share/themes/darko/meegotouch/images/
 install -m 755 meegotouch/images/* %{buildroot}/usr/share/themes/darko/meegotouch/images/
 mkdir -p %{buildroot}/usr/share/themes/darko/meegotouch/svg/
 install -m 755 meegotouch/svg/* %{buildroot}/usr/share/themes/darko/meegotouch/svg/
-
+mkdir -p %{buildroot}/usr/share/themes/darko/meegotouch/libmeegotouchhome/style/
+install -m 755 meegotouch/libmeegotouchhome/style/* %{buildroot}/usr/share/themes/darko/meegotouch/libmeegotouchhome/style/
+install -m 755 meegotouch/libmeegotouchhome/libmeegotouchhome.conf %{buildroot}/usr/share/themes/darko/meegotouch/libmeegotouchhome/
 
 %clean
 rm -rf %{buildroot}
