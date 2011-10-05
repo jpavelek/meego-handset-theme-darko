@@ -1,11 +1,11 @@
 Name:		darko
-Version:	0.1
+Version:	0.1.1
 Release:	1%{?dist}
 Summary:	Darko is a theme for MeeGo Handset
 Group:		User Interface/Desktops
 License:	Creative Commons Attribution-NonCommercial 3.0 Unported License
 URL:		https://github.com/jpavelek/meego-handset-theme-darko
-Source0:	file://darko-0.1.tgz
+Source0:	file://darko-0.1.1.tgz
 BuildRoot:	%{_tmppath}/%{name}-%{version}-%{release}-root
 BuildArch:	noarch
 
@@ -41,6 +41,8 @@ rm -rf %{buildroot}
 %{_datadir}/themes/darko/*
 
 %changelog
+* Wed Oct 05 2011 Jakub Pavelek <jpavelek@live.com> 0.1.1
+- Fixed theming, changes to homescreen
+
 * Sat Sep 24 2011 Jakub Pavelek <jpavelek@live.com> 0.1
 - first RPM packaging release
-
