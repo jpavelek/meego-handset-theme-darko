@@ -1,11 +1,11 @@
 Name:		darko
-Version:	0.1.2
+Version:	0.2.0
 Release:	1%{?dist}
 Summary:	Darko is a theme for MeeGo Handset
 Group:		User Interface/Desktops
 License:	Creative Commons Attribution-NonCommercial 3.0 Unported License
 URL:		https://github.com/jpavelek/meego-handset-theme-darko
-Source0:	file://darko-0.1.2.tgz
+Source0:	%{name}-%{version}.tgz
 BuildRoot:	%{_tmppath}/%{name}-%{version}-%{release}-root
 BuildArch:	noarch
 
@@ -33,14 +33,21 @@ mkdir -p %{buildroot}/usr/share/themes/darko/meegotouch/libmeegotouchhome/style/
 install -m 755 meegotouch/libmeegotouchhome/style/* %{buildroot}/usr/share/themes/darko/meegotouch/libmeegotouchhome/style/
 install -m 755 meegotouch/libmeegotouchhome/libmeegotouchhome.conf %{buildroot}/usr/share/themes/darko/meegotouch/libmeegotouchhome/
 
+mkdir -p %{buildroot}/usr/share/themes/blanco/meegotouch/icons
+install -m 644 blanco/meegotouch/icons/* %{buildroot}/usr/share/themes/blanco/meegotouch/icons/
+
 %clean
 rm -rf %{buildroot}
 
 %files
 %defattr(-,root,root,-)
 %{_datadir}/themes/darko/*
+%{_datadir}/themes/blanco/meegotouch/icons/*
 
 %changelog
+* Thu Oct 13 2011 Jakub Pavelek <jpavelek@live.com> 0.2.0
+- Started to haxor graphics for QtComponents into blanco dir. Ugly :(
+
 * Wed Oct 05 2011 Jakub Pavelek <jpavelek@live.com> 0.1.2
 - Preview and backgrounds
 
