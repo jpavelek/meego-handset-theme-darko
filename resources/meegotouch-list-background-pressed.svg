@@ -15,7 +15,7 @@
    id="svg13594"
    version="1.1"
    inkscape:version="0.48.1 r9760"
-   sodipodi:docname="meegotouch-list-background.svg">
+   sodipodi:docname="meegotouch-list-background-pressed.svg">
   <defs
      id="defs13596">
     <linearGradient
@@ -108,16 +108,6 @@
        r="428.14578"
        gradientTransform="matrix(0.99999687,-0.00250312,0.00178412,0.7127565,-0.64818667,51.876016)"
        gradientUnits="userSpaceOnUse" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient14125"
-       id="linearGradient18312"
-       x1="1046.5939"
-       y1="-32.05809"
-       x2="1046.5939"
-       y2="0.054872669"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(2.1614767,0,0,0.7546293,-3301.0798,24.146499)" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -155,7 +145,7 @@
      id="layer1"
      transform="translate(0,-985.3622)">
     <rect
-       style="color:#000000;fill:#f0f0e8;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       style="color:#000000;fill:#cecece;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        id="rect18964"
        width="67.084915"
        height="66.915085"

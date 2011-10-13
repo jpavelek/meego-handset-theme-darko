@@ -10,14 +10,26 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="67"
-   height="67"
+   width="44"
+   height="42"
    id="svg13594"
    version="1.1"
    inkscape:version="0.48.1 r9760"
-   sodipodi:docname="meegotouch-list-background.svg">
+   sodipodi:docname="meegotouch-button-navigationbar-button-background-pressed.svg">
   <defs
      id="defs13596">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient19006">
+      <stop
+         style="stop-color:#e8e8e8;stop-opacity:1;"
+         offset="0"
+         id="stop19008" />
+      <stop
+         style="stop-color:#e8e8e8;stop-opacity:0;"
+         offset="1"
+         id="stop19010" />
+    </linearGradient>
     <linearGradient
        inkscape:collect="always"
        id="linearGradient14267">
@@ -110,14 +122,14 @@
        gradientUnits="userSpaceOnUse" />
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient14125"
-       id="linearGradient18312"
-       x1="1046.5939"
-       y1="-32.05809"
-       x2="1046.5939"
-       y2="0.054872669"
+       xlink:href="#linearGradient19006"
+       id="linearGradient19012"
+       x1="33.032951"
+       y1="989.44324"
+       x2="33.032951"
+       y2="1047.9514"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(2.1614767,0,0,0.7546293,-3301.0798,24.146499)" />
+       gradientTransform="matrix(0.65099819,0,0,0.65099819,0.37559476,368.1523)" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -128,14 +140,14 @@
      inkscape:pageshadow="2"
      inkscape:zoom="11.776119"
      inkscape:cx="33.5"
-     inkscape:cy="33.5"
+     inkscape:cy="23.309886"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="1612"
      inkscape:window-height="949"
-     inkscape:window-x="227"
-     inkscape:window-y="73"
+     inkscape:window-x="228"
+     inkscape:window-y="72"
      inkscape:window-maximized="0" />
   <metadata
      id="metadata13599">
@@ -153,16 +165,24 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(0,-985.3622)">
+     transform="translate(0,-1010.3622)">
     <rect
-       style="color:#000000;fill:#f0f0e8;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        id="rect18964"
-       width="67.084915"
-       height="66.915085"
-       x="0.08491762"
-       y="0.08491762"
-       transform="translate(0,985.3622)"
-       ry="20.878332"
-       rx="20.889734" />
+       width="41.129219"
+       height="41.025105"
+       x="1.8681875"
+       y="1010.8375"
+       ry="12.800339"
+       rx="12.807329" />
+    <rect
+       rx="11.912193"
+       ry="11.90569"
+       y="1012.2711"
+       x="3.3054988"
+       height="38.157757"
+       width="38.254601"
+       id="rect19004"
+       style="color:#000000;fill:url(#linearGradient19012);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
   </g>
 </svg>
