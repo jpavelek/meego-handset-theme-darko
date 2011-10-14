@@ -123,13 +123,13 @@
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient19006"
-       id="linearGradient19012"
+       id="linearGradient19032"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.65099819,0,0,0.65099819,0.212311,368.15405)"
        x1="33.032951"
        y1="989.44324"
        x2="33.032951"
-       y2="1047.9514"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.65099819,0,0,0.65099819,0.37559476,368.1523)" />
+       y2="1047.9514" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -166,23 +166,22 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,-1010.3622)">
-    <rect
-       style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       id="rect18964"
-       width="41.129219"
-       height="41.025105"
-       x="1.8681875"
-       y="1010.8375"
-       ry="12.800339"
-       rx="12.807329" />
-    <rect
-       rx="11.912193"
-       ry="11.90569"
-       y="1012.2711"
-       x="3.3054988"
-       height="38.157757"
-       width="38.254601"
-       id="rect19004"
-       style="color:#000000;fill:url(#linearGradient19012);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    <g
+       id="g19035">
+      <path
+         inkscape:connector-curvature="0"
+         id="rect18964"
+         d="m 14.519514,1010.8361 c -7.095261,0 -12.8125,5.7211 -12.8125,12.8125 l 0,15.4062 c 0,7.0914 5.717239,12.8125 12.8125,12.8125 l 15.5,0 c 7.09526,0 12.8125,-5.7211 12.8125,-12.8125 l 0,-15.4062 c 0,-7.0914 -5.71724,-12.8125 -12.8125,-12.8125 l -15.5,0 z m 0.53125,1.4375 14.4375,0 c 6.599355,0 11.90625,5.3104 11.90625,11.9062 l 0,14.3438 c 0,6.5957 -5.306895,11.9062 -11.90625,11.9062 l -14.4375,0 c -6.599355,0 -11.90625,-5.3105 -11.90625,-11.9062 l 0,-14.3438 c 0,-6.5958 5.306895,-11.9062 11.90625,-11.9062 z"
+         style="color:#000000;fill:#ffffff;fill-opacity:0.64655173;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+      <rect
+         rx="11.912193"
+         ry="11.90569"
+         y="1012.2728"
+         x="3.1422136"
+         height="38.157757"
+         width="38.254601"
+         id="rect19018"
+         style="color:#000000;fill:url(#linearGradient19032);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    </g>
   </g>
 </svg>
