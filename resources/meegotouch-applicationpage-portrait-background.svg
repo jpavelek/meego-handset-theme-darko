@@ -15,9 +15,35 @@
    id="svg13594"
    version="1.1"
    inkscape:version="0.48.1 r9760"
-   sodipodi:docname="meegotouch-applicationpage-background.svg">
+   sodipodi:docname="meegotouch-applicationpage-portrait-background.svg">
   <defs
      id="defs13596">
+    <linearGradient
+       id="linearGradient15209">
+      <stop
+         id="stop15211"
+         offset="0"
+         style="stop-color:#ffffff;stop-opacity:0.5991379" />
+      <stop
+         style="stop-color:#cecece;stop-opacity:0.3275862"
+         offset="0.54747945"
+         id="stop15213" />
+      <stop
+         id="stop15215"
+         offset="1"
+         style="stop-color:#c3c3c3;stop-opacity:0.48461539;" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient15195">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:0.18431373;"
+         offset="0"
+         id="stop15197" />
+      <stop
+         style="stop-color:#cecece;stop-opacity:0.27843139;"
+         offset="1"
+         id="stop15199" />
+    </linearGradient>
     <linearGradient
        inkscape:collect="always"
        id="linearGradient14267">
@@ -108,6 +134,26 @@
        r="428.14578"
        gradientTransform="matrix(0.99999687,-0.00250312,0.00178412,0.7127565,-0.64818667,51.876016)"
        gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient15195"
+       id="linearGradient15201"
+       x1="0"
+       y1="625.57581"
+       x2="481.78714"
+       y2="625.57581"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient15209"
+       id="radialGradient15207"
+       cx="295.22168"
+       cy="580.46637"
+       fx="295.22168"
+       fy="580.46637"
+       r="240.89357"
+       gradientTransform="matrix(1,0,0,1.7748514,0,-484.7283)"
+       gradientUnits="userSpaceOnUse" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -116,17 +162,17 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.92388759"
-     inkscape:cx="293.08062"
+     inkscape:zoom="1.0491803"
+     inkscape:cx="66.054688"
      inkscape:cy="427"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1612"
-     inkscape:window-height="949"
-     inkscape:window-x="199"
-     inkscape:window-y="55"
-     inkscape:window-maximized="0" />
+     inkscape:window-width="1920"
+     inkscape:window-height="1056"
+     inkscape:window-x="0"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1" />
   <metadata
      id="metadata13599">
     <rdf:RDF>
@@ -135,7 +181,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -145,12 +191,20 @@
      id="layer1"
      transform="translate(0,-198.3622)">
     <rect
-       style="color:#000000;fill:#cecece;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       style="color:#000000;fill:url(#linearGradient15201);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        id="rect14255"
        width="481.78714"
-       height="856.05731"
+       height="855.10059"
        x="0"
-       y="197.06876"
-       ry="5.6055059" />
+       y="198.02551"
+       ry="0" />
+    <rect
+       ry="0"
+       y="198.02551"
+       x="0"
+       height="855.10059"
+       width="481.78714"
+       id="rect15205"
+       style="color:#000000;fill:url(#radialGradient15207);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;opacity:0.94140625" />
   </g>
 </svg>

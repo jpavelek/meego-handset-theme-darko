@@ -15,7 +15,7 @@
    id="svg13594"
    version="1.1"
    inkscape:version="0.48.1 r9760"
-   sodipodi:docname="meegotouch-positionindicator-indicator-background.svg">
+   sodipodi:docname="meegotouch-positionindicator-background-horizontal.svg">
   <defs
      id="defs13596">
     <linearGradient
@@ -72,11 +72,11 @@
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1612"
-     inkscape:window-height="949"
-     inkscape:window-x="308"
-     inkscape:window-y="102"
-     inkscape:window-maximized="0" />
+     inkscape:window-width="1920"
+     inkscape:window-height="1056"
+     inkscape:window-x="0"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1" />
   <metadata
      id="metadata13599">
     <rdf:RDF>
@@ -85,7 +85,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -101,8 +101,8 @@
        height="12.012736"
        x="-1052.3612"
        y="0.0026980469"
-       ry="6.0063682"
+       ry="1.6109309"
        transform="matrix(0,-1,1,0,0,0)"
-       rx="1.219164" />
+       rx="1.5385556" />
   </g>
 </svg>

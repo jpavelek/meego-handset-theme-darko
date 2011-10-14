@@ -15,7 +15,7 @@
    id="svg13594"
    version="1.1"
    inkscape:version="0.48.1 r9760"
-   sodipodi:docname="meegotouch-positionindicator-indicator.svg">
+   sodipodi:docname="meegotouch-positionindicator-background.svg">
   <defs
      id="defs13596">
     <linearGradient
@@ -66,17 +66,17 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="65.75"
-     inkscape:cx="0.2243346"
-     inkscape:cy="6"
+     inkscape:zoom="74.666667"
+     inkscape:cx="3"
+     inkscape:cy="3.3214286"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1612"
-     inkscape:window-height="949"
-     inkscape:window-x="308"
-     inkscape:window-y="102"
-     inkscape:window-maximized="0" />
+     inkscape:window-width="1920"
+     inkscape:window-height="1056"
+     inkscape:window-x="0"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1" />
   <metadata
      id="metadata13599">
     <rdf:RDF>
@@ -85,7 +85,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -97,12 +97,12 @@
     <rect
        style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        id="rect14255"
-       width="11.99382"
-       height="5.989923"
+       width="11.998454"
+       height="6.0139589"
        x="-1052.3612"
        y="0.0026980469"
-       ry="2.9949615"
+       ry="1.6339285"
        transform="matrix(0,-1,1,0,0,0)"
-       rx="2.4364939" />
+       rx="1.5250834" />
   </g>
 </svg>

@@ -15,7 +15,7 @@
    id="svg13594"
    version="1.1"
    inkscape:version="0.48.1 r9760"
-   sodipodi:docname="icon-m-toolbar-back.svg">
+   sodipodi:docname="meegotouch-tab-portrait-bottom-background-selected.svg">
   <defs
      id="defs13596">
     <linearGradient
@@ -238,7 +238,7 @@
        x2="275.69894"
        y2="67.873817"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(1,0,0,1.0709677,0,980.31947)" />
+       gradientTransform="matrix(1.0008945,0,0,1.1032258,-0.43049224,978.14951)" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -253,11 +253,11 @@
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1612"
-     inkscape:window-height="949"
-     inkscape:window-x="228"
-     inkscape:window-y="72"
-     inkscape:window-maximized="0" />
+     inkscape:window-width="1920"
+     inkscape:window-height="1056"
+     inkscape:window-x="0"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1" />
   <metadata
      id="metadata13599">
     <rdf:RDF>
@@ -266,7 +266,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -278,9 +278,9 @@
     <rect
        style="color:#000000;fill:url(#linearGradient20079);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        id="rect20071"
-       width="480.86023"
-       height="71.39785"
-       x="0.43010753"
-       y="980.96436" />
+       width="481.29034"
+       height="73.548386"
+       x="7.0499917e-09"
+       y="978.81384" />
   </g>
 </svg>
