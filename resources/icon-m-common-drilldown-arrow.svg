@@ -251,11 +251,11 @@
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1920"
-     inkscape:window-height="1056"
-     inkscape:window-x="0"
-     inkscape:window-y="24"
-     inkscape:window-maximized="1" />
+     inkscape:window-width="1540"
+     inkscape:window-height="980"
+     inkscape:window-x="178"
+     inkscape:window-y="36"
+     inkscape:window-maximized="0" />
   <metadata
      id="metadata13599">
     <rdf:RDF>
@@ -264,7 +264,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -273,40 +273,37 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,-1020.3622)">
+    <rect
+       style="color:#000000;fill:#b4b4b4;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect19018-3"
+       width="29.807501"
+       height="29.732042"
+       x="1.1129193"
+       y="-1051.2428"
+       ry="14.866021"
+       rx="14.90375"
+       transform="scale(1,-1)" />
     <g
-       id="g8459">
+       id="g8455"
+       transform="matrix(1.0111354,0,0,0.79221716,-0.60835322,215.06012)">
       <rect
-         transform="scale(1,-1)"
-         rx="14.90375"
-         ry="14.866021"
-         y="-1051.2428"
-         x="1.1129193"
-         height="29.732042"
-         width="29.807501"
-         id="rect19018-3"
-         style="color:#000000;fill:#b4b4b4;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
-      <g
-         transform="translate(0.1839578,-0.36059936)"
-         id="g8455">
-        <rect
-           style="color:#000000;fill:#282828;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-           id="rect7929"
-           width="18.342207"
-           height="4.4157162"
-           x="-733.18823"
-           y="747.0285"
-           ry="2.0335534"
-           transform="matrix(0.70710678,-0.70710678,0.70710678,0.70710678,0,0)" />
-        <rect
-           transform="matrix(0.70710678,0.70710678,0.70710678,-0.70710678,0,0)"
-           ry="2.0335534"
-           y="-719.13953"
-           x="732.97986"
-           height="4.4157162"
-           width="18.342207"
-           id="rect8445"
-           style="color:#000000;fill:#282828;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
-      </g>
+         transform="matrix(0.70710678,-0.70710678,0.70710678,0.70710678,0,0)"
+         ry="2.0335534"
+         y="747.0285"
+         x="-733.18823"
+         height="4.4157162"
+         width="18.342207"
+         id="rect7929"
+         style="color:#000000;fill:#282828;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+      <rect
+         style="color:#000000;fill:#282828;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="rect8445"
+         width="18.342207"
+         height="4.4157162"
+         x="732.97986"
+         y="-719.13953"
+         ry="2.0335534"
+         transform="matrix(0.70710678,0.70710678,0.70710678,-0.70710678,0,0)" />
     </g>
   </g>
 </svg>
