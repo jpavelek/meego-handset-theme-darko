@@ -154,10 +154,18 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,-985.3622)">
-    <path
-       style="color:#000000;fill:#cecece;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       d="m 20.96875,1052.3622 c -11.5729128,0 -20.875,-9.3084 -20.875,-20.875 l 0,-9.9375 0,-15.2187 0,-20.87505 20.875,0 25.3125,0 20.875,0 0,19.81255 0,16.2812 0,9.9375 c 0,11.5666 -9.302087,20.875 -20.875,20.875 l -25.3125,0 z"
-       id="rect18964"
-       inkscape:connector-curvature="0" />
+    <g
+       id="g22004">
+      <path
+         inkscape:connector-curvature="0"
+         id="rect18964"
+         d="m 20.881895,1052.3622 c -11.5729127,0 -20.8749999,-9.3084 -20.8749999,-20.875 l 0,-9.9375 0,-15.2187 0,-20.87505 20.8749999,0 25.3125,0 20.875,0 0,19.81255 0,16.2812 0,9.9375 c 0,11.5666 -9.302087,20.875 -20.875,20.875 l -25.3125,0 z"
+         style="color:#000000;fill:#e8e8e8;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+      <path
+         style="color:#000000;fill:#b4b4b4;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         d="m 20.881895,1049.6697 c -11.5729126,0 -20.87499981,-8.9459 -20.87499981,-20.062 l 0,-9.5505 0,-14.626 0,-20.0621 20.87499981,0 25.3125,0 20.875,0 0,19.041 0,15.6471 0,9.5505 c 0,11.1161 -9.302087,20.062 -20.875,20.062 l -25.3125,0 z"
+         id="path22000"
+         inkscape:connector-curvature="0" />
+    </g>
   </g>
 </svg>
