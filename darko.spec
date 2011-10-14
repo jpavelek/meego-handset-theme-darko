@@ -1,5 +1,5 @@
 Name:		darko
-Version:	0.2.0
+Version:	0.2.1
 Release:	1%{?dist}
 Summary:	Darko is a theme for MeeGo Handset
 Group:		User Interface/Desktops
@@ -45,6 +45,9 @@ rm -rf %{buildroot}
 %{_datadir}/themes/blanco/meegotouch/icons/*
 
 %changelog
+* Fri Oct 14 2011 Jakub Pavelek <jpavelek@live.com> 0.2.1
+- Enough of QtComponents graphics to run Maps and main page of QmlComponentsGallery. Releasing.
+
 * Thu Oct 13 2011 Jakub Pavelek <jpavelek@live.com> 0.2.0
 - Started to haxor graphics for QtComponents into blanco dir. Ugly :(
 
