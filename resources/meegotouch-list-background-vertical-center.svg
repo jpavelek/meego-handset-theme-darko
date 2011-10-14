@@ -15,7 +15,7 @@
    id="svg13594"
    version="1.1"
    inkscape:version="0.48.1 r9760"
-   sodipodi:docname="meegotouch-list-background-pressed.svg">
+   sodipodi:docname="meegotouch-list-background-vertical-center.svg">
   <defs
      id="defs13596">
     <linearGradient
@@ -44,11 +44,11 @@
     <linearGradient
        id="linearGradient14125">
       <stop
-         style="stop-color:#141414;stop-opacity:0.80784315;"
+         style="stop-color:#505050;stop-opacity:1;"
          offset="0"
          id="stop14127" />
       <stop
-         style="stop-color:#505050;stop-opacity:0.20769231;"
+         style="stop-color:#e8e8e8;stop-opacity:1;"
          offset="1"
          id="stop14129" />
     </linearGradient>
@@ -110,7 +110,17 @@
        gradientUnits="userSpaceOnUse" />
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient14125-0"
+       xlink:href="#linearGradient14125"
+       id="linearGradient18312"
+       x1="1046.5939"
+       y1="-32.05809"
+       x2="1046.5939"
+       y2="0.054872669"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(2.1614767,0,0,0.7546293,-3301.0798,24.146499)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient14125"
        id="linearGradient22712"
        x1="33.712296"
        y1="0.16983782"
@@ -118,26 +128,25 @@
        y2="67"
        gradientUnits="userSpaceOnUse" />
     <linearGradient
-       id="linearGradient14125-0">
-      <stop
-         style="stop-color:#505050;stop-opacity:1;"
-         offset="0"
-         id="stop14127-5" />
-      <stop
-         style="stop-color:#e8e8e8;stop-opacity:1;"
-         offset="1"
-         id="stop14129-2" />
-    </linearGradient>
-    <linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient14125-0"
-       id="linearGradient22756"
+       xlink:href="#linearGradient14125"
+       id="linearGradient22905"
        gradientUnits="userSpaceOnUse"
        x1="33.712296"
        y1="0.16983782"
        x2="33.882126"
        y2="67"
-       gradientTransform="translate(-0.16983429,-1052.2773)" />
+       gradientTransform="translate(0,985.3622)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient14125"
+       id="linearGradient3077"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-6.6542295e-8,-1052.5321)"
+       x1="33.712296"
+       y1="0.16983782"
+       x2="33.882126"
+       y2="67" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -146,17 +155,17 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="11.776119"
-     inkscape:cx="33.499999"
-     inkscape:cy="33.499999"
+     inkscape:zoom="11.104478"
+     inkscape:cx="52.214298"
+     inkscape:cy="40.704301"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1920"
-     inkscape:window-height="1056"
-     inkscape:window-x="0"
-     inkscape:window-y="24"
-     inkscape:window-maximized="1" />
+     inkscape:window-width="1644"
+     inkscape:window-height="904"
+     inkscape:window-x="121"
+     inkscape:window-y="51"
+     inkscape:window-maximized="0" />
   <metadata
      id="metadata13599">
     <rdf:RDF>
@@ -174,29 +183,15 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,-985.3622)">
-    <g
-       id="g22758"
-       transform="matrix(1,0,0,-1,0,2037.4697)">
-      <rect
-         rx="20.889734"
-         ry="20.878332"
-         transform="scale(1,-1)"
-         y="-1052.1924"
-         x="-0.084916674"
-         height="66.915085"
-         width="67.084915"
-         id="rect18964-9"
-         style="color:#000000;fill:url(#linearGradient22756);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
-      <rect
-         transform="scale(1,-1)"
-         style="color:#000000;fill:#f0f0e8;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-         id="rect22196"
-         width="67.084915"
-         height="59.612167"
-         x="-0.084916674"
-         y="-1048.5409"
-         ry="18.599733"
-         rx="20.889734" />
-    </g>
+    <rect
+       rx="0"
+       ry="0"
+       y="-1052.3077"
+       x="0.084917553"
+       height="66.636368"
+       width="67.084915"
+       id="rect22196"
+       style="color:#000000;fill:#f0f0e8;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       transform="scale(1,-1)" />
   </g>
 </svg>

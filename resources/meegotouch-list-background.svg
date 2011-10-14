@@ -174,7 +174,8 @@
      id="layer1"
      transform="translate(0,-985.3622)">
     <g
-       id="g22907">
+       id="g22907"
+       transform="matrix(1,0,0,-1,0,2037.8094)">
       <rect
          rx="20.889734"
          ry="20.878332"
