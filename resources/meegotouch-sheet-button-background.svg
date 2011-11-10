@@ -326,7 +326,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -336,7 +336,10 @@
      id="layer1"
      transform="translate(0,-1010.3622)">
     <g
-       id="g13621">
+       id="g13621"
+       inkscape:export-filename="/home/jakub/Projects/meego-handset-theme-darko/blanco/meegotouch/icons/meegotouch-sheet-button-background.png"
+       inkscape:export-xdpi="91.197243"
+       inkscape:export-ydpi="91.197243">
       <rect
          ry="13.669386"
          rx="15.548074"
