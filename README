@@ -8,5 +8,3 @@ Installation:
 =============
 For rasterization you need rsvg binaries and ImageMagick
 (e.g. librsvg2-bin and imagemagick packages in Ubuntu)
-
-Installation via packaging for Debian is provided.
