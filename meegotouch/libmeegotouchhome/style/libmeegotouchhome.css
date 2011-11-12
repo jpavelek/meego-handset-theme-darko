@@ -6,3 +6,21 @@ QuickLaunchBarStyle.Landscape {
     background-image: "meegotouch-navigationbar-landscape-background" 0px 0px 0px 0px;
 }
 
+SwitcherButtonStyle {
+    cropping-top: 36;
+}
+
+/* Those do not work for some reason */
+MButtonIconStyle#CloseButtonDetailview
+{
+    minimum-size:   56px 56px;
+    preferred-size: 56px 56px;
+    maximum-size:   56px 56px;
+    icon-size:      56px 56px;
+}
+
+MLabelStyle#SwitcherButtonTitleLabelDetailview {
+    font: $FONT_FAMILY bold 3.0mm;
+}
+
+
