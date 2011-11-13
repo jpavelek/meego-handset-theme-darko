@@ -10,8 +10,8 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="32"
-   height="32"
+   width="48"
+   height="48"
    id="svg3349"
    version="1.1"
    inkscape:version="0.48.2 r9819"
@@ -197,9 +197,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="19.46875"
-     inkscape:cx="9.1759848"
-     inkscape:cy="13.945425"
+     inkscape:zoom="17.4375"
+     inkscape:cx="24"
+     inkscape:cy="24"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -224,10 +224,10 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(0,-1020.3622)">
+     transform="translate(0,-1004.3622)">
     <g
        id="g4405"
-       transform="matrix(1.1964736,0,0,1.1964736,-5.5403656,-202.52164)"
+       transform="matrix(1.7878205,0,0,1.7878205,-8.1479865,-822.84198)"
        inkscape:export-filename="/home/jakub/Projects/meego-handset-theme-darko/meegotouch/icons/icon-m-framework-close-thumbnail.png"
        inkscape:export-xdpi="89.790001"
        inkscape:export-ydpi="89.790001">
