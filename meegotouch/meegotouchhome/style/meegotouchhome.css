@@ -1,11 +1,11 @@
 MButtonIconStyle#CloseButtonDetailview
 {
-    minimum-size:   48px 48px  ;
-    preferred-size: 48px 48px  ;
-    maximum-size:   48px 48px  ;
-    icon-size:      48px 48px  ;
+    minimum-size:   42px 42px  ;
+    preferred-size: 42px 42px  ;
+    maximum-size:   42px 42px  ;
+    icon-size:      42px 42px  ;
 }
 
 MLabelStyle#SwitcherButtonTitleLabelDetailview {
-    font: $FONT_FAMILY bold 32px;
+    font: $FONT_FAMILY bold 26px;
 }
