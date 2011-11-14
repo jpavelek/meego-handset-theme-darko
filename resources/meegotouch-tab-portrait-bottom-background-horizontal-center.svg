@@ -15,7 +15,7 @@
    id="svg13594"
    version="1.1"
    inkscape:version="0.48.2 r9819"
-   sodipodi:docname="meegotouch-tab-portrait-bottom-background-selected.svg">
+   sodipodi:docname="meegotouch-tab-portrait-bottom-background-horizontal-center.svg">
   <defs
      id="defs13596">
     <linearGradient
@@ -229,16 +229,6 @@
        y1="1008.2226"
        x2="24.383953"
        y2="1037.3494" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient20081"
-       id="linearGradient20079"
-       x1="275.69894"
-       y1="0.62824863"
-       x2="275.69894"
-       y2="67.568214"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(1.0008945,0,0,1.1032258,-0.43049224,978.14951)" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -247,9 +237,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.5493732"
-     inkscape:cx="240.64738"
-     inkscape:cy="36.774164"
+     inkscape:zoom="3.29375"
+     inkscape:cx="40.056838"
+     inkscape:cy="36"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -266,7 +256,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -276,28 +266,33 @@
      id="layer1"
      transform="translate(0,-980.3622)">
     <g
-       id="g10263">
-      <rect
-         y="978.81384"
-         x="7.0499917e-09"
-         height="73.548386"
-         width="481.29034"
-         id="rect20071"
-         style="color:#000000;fill:url(#linearGradient20079);fill-opacity:1.0;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
-      <rect
-         y="978.81384"
-         x="7.0499917e-09"
-         height="1.0624349"
-         width="481.2843"
-         id="rect9740"
-         style="fill:#b2b2b3;fill-opacity:1;stroke:none" />
-      <rect
-         style="fill:#ffffff;fill-opacity:1;stroke:none"
-         id="rect9742"
-         width="481.29477"
-         height="1.0624349"
-         x="7.0499917e-09"
-         y="979.86438" />
+       id="g3155"
+       transform="matrix(1.0020936,0,0,1,-0.91108934,0)">
+      <g
+         transform="matrix(0.99701544,0,0,0.97514268,0.13058683,26.028316)"
+         id="g3150">
+        <rect
+           style="color:#000000;fill:#adb0b0;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+           id="rect20071"
+           width="481.29034"
+           height="73.548386"
+           x="7.0499917e-09"
+           y="978.81384" />
+        <rect
+           style="fill:#838484;fill-opacity:1;stroke:none"
+           id="rect9740"
+           width="481.2843"
+           height="1.0624349"
+           x="7.0499917e-09"
+           y="978.81384" />
+        <rect
+           y="979.86438"
+           x="7.0499917e-09"
+           height="1.0624349"
+           width="481.29477"
+           id="rect9742"
+           style="fill:#ffffff;fill-opacity:1;stroke:none" />
+      </g>
     </g>
   </g>
 </svg>
