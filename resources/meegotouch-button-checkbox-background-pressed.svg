@@ -272,9 +272,86 @@
        x2="30.15486"
        y1="1010.8201"
        x1="30.15486"
-       gradientTransform="matrix(0.67004884,0,0,1,-0.4765388,-0.20791938)"
+       gradientTransform="matrix(0.67004884,0,0,1,-48.45018,-18.764756)"
        gradientUnits="userSpaceOnUse"
        id="linearGradient8189"
+       xlink:href="#linearGradient12826-7"
+       inkscape:collect="always" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient19006-4-1"
+       id="linearGradient7868"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.67597955,0,0,1,-0.56663081,0.39092256)"
+       x1="30.631758"
+       y1="1051.7423"
+       x2="30.631758"
+       y2="1036.0228" />
+    <linearGradient
+       id="linearGradient19006-4-1">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0"
+         id="stop19008-9-4" />
+      <stop
+         style="stop-color:#bebebc;stop-opacity:1;"
+         offset="1"
+         id="stop19010-8-6" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient20035-8"
+       id="linearGradient7262"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.67597955,0,0,0.98660651,-0.53593351,13.419193)"
+       x1="32.06245"
+       y1="1060.2952"
+       x2="32.06245"
+       y2="1010.8235" />
+    <linearGradient
+       id="linearGradient20035-8">
+      <stop
+         style="stop-color:#000000;stop-opacity:0.03846154;"
+         offset="0"
+         id="stop20037-2" />
+      <stop
+         id="stop7475-79"
+         offset="0.32876712"
+         style="stop-color:#0a0a0a;stop-opacity:0.48461539;" />
+      <stop
+         id="stop7473-3"
+         offset="1"
+         style="stop-color:#141414;stop-opacity:0.99230766;" />
+    </linearGradient>
+    <linearGradient
+       y2="1051.9437"
+       x2="30.15486"
+       y1="1010.8201"
+       x1="30.15486"
+       gradientTransform="matrix(0.67597955,0,0,1,-0.46185173,-0.10530313)"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient7804-9"
+       xlink:href="#linearGradient12826-3"
+       inkscape:collect="always" />
+    <linearGradient
+       id="linearGradient12826-3">
+      <stop
+         style="stop-color:#6699ff;stop-opacity:1;"
+         offset="0"
+         id="stop12828-1" />
+      <stop
+         style="stop-color:#227eff;stop-opacity:1;"
+         offset="1"
+         id="stop12830-5" />
+    </linearGradient>
+    <linearGradient
+       y2="1051.9437"
+       x2="30.15486"
+       y1="1010.8201"
+       x1="30.15486"
+       gradientTransform="matrix(0.67597955,0,0,1,-0.42847581,-0.11637744)"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient7489"
        xlink:href="#linearGradient12826-7"
        inkscape:collect="always" />
   </defs>
@@ -286,7 +363,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="9.484375"
-     inkscape:cx="31.32623"
+     inkscape:cx="12.769393"
      inkscape:cy="20.321408"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -313,51 +390,51 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,-1010.3622)">
-    <rect
-       style="fill:url(#linearGradient8189);fill-opacity:1;stroke:none"
-       id="rect12716-6"
-       width="41.540821"
-       height="41.331139"
-       x="0.15928851"
-       y="1010.4011"
-       rx="16.830601"
-       ry="14.829188"
+    <g
+       id="g8046"
        inkscape:export-filename="/home/jakub/Projects/meego-handset-theme-darko/blanco/meegotouch/icons/meegotouch-button-checkbox-background-pressed.png"
-       inkscape:export-xdpi="90.089439"
-       inkscape:export-ydpi="90.089439" />
-    <path
-       sodipodi:nodetypes="csccccscc"
-       inkscape:connector-curvature="0"
-       id="path7500-5"
-       d="m 34.029724,1021.7851 c 0,0 -4.367118,2.9522 -8.734237,7.1697 -4.367119,4.2174 -6.07136,6.537 -6.07136,6.537 l -6.71045,-4.9555 -1.917272,1.8979 10.544993,11.3871 c 0,0 1.479649,-5.5878 4.793179,-10.1219 3.621513,-4.9555 9.586358,-10.4382 9.586358,-10.4382 z"
-       style="fill:#000000;fill-opacity:0.43378996;stroke:none"
-       inkscape:export-filename="/home/jakub/Projects/meego-handset-theme-darko/blanco/meegotouch/icons/meegotouch-button-checkbox-background-pressed.png"
-       inkscape:export-xdpi="90.089439"
-       inkscape:export-ydpi="90.089439" />
-    <path
-       style="fill:#969696;fill-opacity:1;stroke:none"
-       d="m 33.390634,1019.3633 c 0,0 -4.367118,2.9522 -8.734237,7.1697 -4.367119,4.2174 -6.07136,6.537 -6.07136,6.537 l -6.710451,-4.9555 -1.9172716,1.8979 10.5449936,11.3871 c 0,0 1.479649,-5.5878 4.793179,-10.1219 3.621513,-4.9555 9.586358,-10.4382 9.586358,-10.4382 z"
-       id="path7498-7"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="csccccscc"
-       inkscape:export-filename="/home/jakub/Projects/meego-handset-theme-darko/blanco/meegotouch/icons/meegotouch-button-checkbox-background-pressed.png"
-       inkscape:export-xdpi="90.089439"
-       inkscape:export-ydpi="90.089439" />
-    <path
-       style="opacity:0.74897114;fill:url(#linearGradient7857-6);fill-opacity:1;stroke:none"
-       d="m 16.983492,1010.4011 c -9.3241515,0 -16.8266263,6.5972 -16.8266263,14.8125 l 0,0.3125 c 1.7343076,-7.2918 8.5680866,-12.7187 16.7634873,-12.7187 l 8.018693,0 c 8.231068,0 15.066157,5.4726 16.763487,12.8125 l 0,-0.4063 c 0,-8.2153 -7.502474,-14.8125 -16.826627,-14.8125 l -7.892414,0 z"
-       id="rect7836-1"
-       inkscape:connector-curvature="0"
-       inkscape:export-filename="/home/jakub/Projects/meego-handset-theme-darko/blanco/meegotouch/icons/meegotouch-button-checkbox-background-pressed.png"
-       inkscape:export-xdpi="90.089439"
-       inkscape:export-ydpi="90.089439" />
-    <path
-       style="fill:url(#linearGradient7868-7);fill-opacity:1;stroke:none"
-       d="m 0.05035018,1036.4844 0,1.0625 c 0,8.2153 7.50247482,14.8125 16.82662682,14.8125 l 7.892414,0 c 9.324152,0 16.826627,-6.5972 16.826627,-14.8125 l 0,-1.0625 c 0,8.2153 -7.502475,14.8125 -16.826627,14.8125 l -7.892414,0 c -9.324152,0 -16.82662682,-6.5972 -16.82662682,-14.8125 z"
-       id="rect7859-9"
-       inkscape:connector-curvature="0"
-       inkscape:export-filename="/home/jakub/Projects/meego-handset-theme-darko/blanco/meegotouch/icons/meegotouch-button-checkbox-background-pressed.png"
-       inkscape:export-xdpi="90.089439"
-       inkscape:export-ydpi="90.089439" />
+       inkscape:export-xdpi="89.496986"
+       inkscape:export-ydpi="89.496986">
+      <rect
+         inkscape:export-ydpi="89.496986"
+         inkscape:export-xdpi="89.496986"
+         inkscape:export-filename="/home/jakub/Projects/meego-handset-theme-darko/blanco/meegotouch/icons/meegotouch-button-checkbox-background-selected.png"
+         ry="14.829188"
+         rx="16.97957"
+         y="1010.4927"
+         x="0.21298099"
+         height="41.331139"
+         width="41.908504"
+         id="rect12716"
+         style="fill:url(#linearGradient7489);fill-opacity:1.0;stroke:none" />
+      <path
+         style="fill:#000000;fill-opacity:0.43378996;stroke:none"
+         d="m 33.858718,1022.6313 c 0,0 -4.405772,2.9522 -8.811545,7.1697 -4.405773,4.2174 -6.125099,6.537 -6.125099,6.537 l -6.769845,-4.9555 -1.934241,1.8979 10.638328,11.3871 c 0,0 1.492745,-5.5878 4.835604,-10.1219 3.653568,-4.9555 9.671208,-10.4382 9.671208,-10.4382 z"
+         id="path7500"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="csccccscc" />
+      <path
+         sodipodi:nodetypes="csccccscc"
+         inkscape:connector-curvature="0"
+         id="path7498"
+         d="m 33.213971,1020.2095 c 0,0 -4.405772,2.9522 -8.811545,7.1697 -4.405773,4.2174 -6.125098,6.537 -6.125098,6.537 l -6.769846,-4.9555 -1.9342421,1.8979 10.6383291,11.3871 c 0,0 1.492746,-5.5878 4.835604,-10.1219 3.653568,-4.9555 9.671208,-10.4382 9.671208,-10.4382 z"
+         style="fill:#949494;fill-opacity:1;stroke:none" />
+      <path
+         inkscape:export-ydpi="89.496986"
+         inkscape:export-xdpi="89.496986"
+         inkscape:export-filename="/home/jakub/Projects/meego-handset-theme-darko/blanco/meegotouch/icons/meegotouch-button-checkbox-background-selected.png"
+         inkscape:connector-curvature="0"
+         id="rect6745"
+         d="m 17.080547,1010.4905 c -9.4066806,0 -16.97556061,6.5396 -16.97556061,14.645 l 0,11.5001 c 0,8.1053 7.56888001,14.645 16.97556061,14.645 l 7.962271,0 c 9.406682,0 16.975562,-6.5397 16.975562,-14.645 l 0,-11.5001 c 0,-8.1054 -7.56888,-14.645 -16.975562,-14.645 l -7.962271,0 z m 0.254793,2.2815 7.420836,0 c 8.779569,0 15.860845,6.0934 15.860845,13.6584 l 0,10.7601 c 0,7.565 -7.081275,13.6584 -15.860844,13.6584 l -7.420836,0 c -8.7795686,0 -15.8289946,-6.0934 -15.8289946,-13.6584 l 0,-10.7601 c 0,-7.565 7.049426,-13.6584 15.8289946,-13.6584 z"
+         style="fill:url(#linearGradient7262);fill-opacity:1;stroke:none" />
+      <path
+         inkscape:export-ydpi="89.496986"
+         inkscape:export-xdpi="89.496986"
+         inkscape:export-filename="/home/jakub/Projects/meego-handset-theme-darko/blanco/meegotouch/icons/meegotouch-button-checkbox-background-selected.png"
+         inkscape:connector-curvature="0"
+         id="rect7859"
+         d="m 0.07627939,1036.4508 0,1.0625 c 0,8.2153 7.56888001,14.8125 16.97556161,14.8125 l 7.962271,0 c 9.406682,0 16.975562,-6.5972 16.975562,-14.8125 l 0,-1.0625 c 0,8.2153 -7.56888,14.8125 -16.975562,14.8125 l -7.962271,0 c -9.4066816,0 -16.97556161,-6.5972 -16.97556161,-14.8125 z"
+         style="fill:url(#linearGradient7868);fill-opacity:1;stroke:none" />
+    </g>
   </g>
 </svg>
