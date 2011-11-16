@@ -14,7 +14,7 @@
    height="67"
    id="svg13594"
    version="1.1"
-   inkscape:version="0.48.1 r9760"
+   inkscape:version="0.48.2 r9819"
    sodipodi:docname="meegotouch-list-background-vertical-center.svg">
   <defs
      id="defs13596">
@@ -155,16 +155,16 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="11.104478"
-     inkscape:cx="35.779488"
-     inkscape:cy="37.102152"
+     inkscape:zoom="8.197923"
+     inkscape:cx="57.194064"
+     inkscape:cy="33.356417"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="1644"
      inkscape:window-height="904"
-     inkscape:window-x="128"
-     inkscape:window-y="51"
+     inkscape:window-x="103"
+     inkscape:window-y="81"
      inkscape:window-maximized="0" />
   <metadata
      id="metadata13599">
@@ -174,7 +174,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -183,15 +183,43 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,-985.3622)">
-    <rect
-       rx="0"
-       ry="0"
-       y="-1052.3077"
-       x="0.084917553"
-       height="66.636368"
-       width="67.084915"
-       id="rect22196"
-       style="color:#000000;fill:#e8e8e8;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       transform="scale(1,-1)" />
+    <g
+       id="g5253"
+       inkscape:export-filename="/home/jakub/Projects/meego-handset-theme-darko/blanco/meegotouch/icons/meegotouch-list-background-vertical-center.png"
+       inkscape:export-xdpi="90.996964"
+       inkscape:export-ydpi="90.996964">
+      <rect
+         transform="scale(1,-1)"
+         style="color:#000000;fill:#f4f5f5;fill-opacity:0.98823529;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="rect22196"
+         width="67.333679"
+         height="67.38266"
+         x="-0.039464537"
+         y="-1052.6809"
+         ry="0"
+         rx="0" />
+      <rect
+         y="985.30219"
+         x="66.344284"
+         height="67.338364"
+         width="0.93442661"
+         id="rect5247"
+         style="fill:#000000;fill-opacity:0.10588306;stroke:none" />
+      <rect
+         style="fill:#000000;fill-opacity:0.10588445;stroke:none"
+         id="rect5249"
+         width="0.93442661"
+         height="67.367149"
+         x="-0.034118321"
+         y="985.30316" />
+      <rect
+         transform="matrix(0,-1,1,0,0,0)"
+         y="0.90300828"
+         x="-1052.6809"
+         height="65.433052"
+         width="0.93442661"
+         id="rect5251"
+         style="fill:#dbdcdc;fill-opacity:0.98823529;stroke:none" />
+    </g>
   </g>
 </svg>
