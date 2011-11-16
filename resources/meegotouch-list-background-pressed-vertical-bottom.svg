@@ -14,7 +14,7 @@
    height="67"
    id="svg13594"
    version="1.1"
-   inkscape:version="0.48.1 r9760"
+   inkscape:version="0.48.2 r9819"
    sodipodi:docname="meegotouch-list-background-pressed-vertical-bottom.svg">
   <defs
      id="defs13596">
@@ -118,6 +118,88 @@
        y2="0.054872669"
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(2.1614767,0,0,0.7546293,-3301.0798,24.146499)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5412"
+       id="linearGradient3370"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.6234069,0,0,1.6160971,-0.72939283,-647.54097)"
+       x1="21.125551"
+       y1="1010.3524"
+       x2="21.125551"
+       y2="1051.3677" />
+    <linearGradient
+       id="linearGradient5412">
+      <stop
+         id="stop5414"
+         offset="0"
+         style="stop-color:#8b8b87;stop-opacity:1;" />
+      <stop
+         style="stop-color:#141414;stop-opacity:1;"
+         offset="1"
+         id="stop5418" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient19006-4"
+       id="linearGradient3367"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.5656745,0,0,1.543909,0.5464243,-573.49287)"
+       x1="21.728193"
+       y1="1010.2332"
+       x2="21.728193"
+       y2="1051.5927" />
+    <linearGradient
+       id="linearGradient19006-4">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0"
+         id="stop19008-9" />
+      <stop
+         style="stop-color:#e8e8e8;stop-opacity:1;"
+         offset="1"
+         id="stop19010-8" />
+    </linearGradient>
+    <linearGradient
+       y2="1051.5927"
+       x2="21.728193"
+       y1="1010.2332"
+       x1="21.728193"
+       gradientTransform="matrix(1.5656745,0,0,1.543909,0.5464243,-573.49287)"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient5291"
+       xlink:href="#linearGradient19006-4"
+       inkscape:collect="always" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient19006-4"
+       id="linearGradient5331"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.5656745,0,0,1.543909,0.61482666,-573.52935)"
+       x1="21.728193"
+       y1="1010.2332"
+       x2="21.728193"
+       y2="1051.5927" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5412"
+       id="linearGradient5334"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.6234069,0,0,1.6160971,-0.66099047,-1632.9397)"
+       x1="21.125551"
+       y1="1010.3524"
+       x2="21.125551"
+       y2="1051.3677" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient19006-4"
+       id="linearGradient5339"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.5656745,0,0,1.543909,0.61482666,-1558.8916)"
+       x1="21.728193"
+       y1="1010.2332"
+       x2="21.728193"
+       y2="1051.5927" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -126,16 +208,16 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="11.513455"
-     inkscape:cx="38.5526"
-     inkscape:cy="32.311153"
+     inkscape:zoom="7.9354205"
+     inkscape:cx="68.53222"
+     inkscape:cy="34.295573"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1612"
-     inkscape:window-height="949"
-     inkscape:window-x="104"
-     inkscape:window-y="47"
+     inkscape:window-width="1668"
+     inkscape:window-height="973"
+     inkscape:window-x="79"
+     inkscape:window-y="27"
      inkscape:window-maximized="0" />
   <metadata
      id="metadata13599">
@@ -155,17 +237,25 @@
      id="layer1"
      transform="translate(0,-985.3622)">
     <g
-       id="g22004">
+       id="g6046">
       <path
+         inkscape:export-ydpi="90.337074"
+         inkscape:export-xdpi="90.337074"
+         inkscape:export-filename="/home/jakub/Projects/meego-handset-theme-darko/blanco/meegotouch/icons/meegotouch-list-background-pressed-vertical-top.png"
+         sodipodi:nodetypes="csssscc"
          inkscape:connector-curvature="0"
-         id="rect18964"
-         d="m 20.881895,1052.3622 c -11.5729127,0 -20.8749999,-9.3084 -20.8749999,-20.875 l 0,-9.9375 0,-15.2187 0,-20.87505 20.8749999,0 25.3125,0 20.875,0 0,19.81255 0,16.2812 0,9.9375 c 0,11.5666 -9.302087,20.875 -20.875,20.875 l -25.3125,0 z"
-         style="color:#000000;fill:#e8e8e8;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+         id="rect5408"
+         d="m 0.01244097,985.54476 0,49.46394 c 0,9.6773 8.84796143,17.4661 19.81250003,17.4661 l 27.15625,0 c 10.964539,0 19.78125,-7.7888 19.78125,-17.4661 l 0.01061,-49.41088 z"
+         style="opacity:0.39917698;fill:#acb0ac;fill-opacity:0.98823529;stroke:none" />
       <path
-         style="color:#000000;fill:#b4b4b4;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-         d="m 20.881895,1049.6697 c -11.5729126,0 -20.87499981,-8.9459 -20.87499981,-20.062 l 0,-9.5505 0,-14.626 0,-20.0621 20.87499981,0 25.3125,0 20.875,0 0,19.041 0,15.6471 0,9.5505 c 0,11.1161 -9.302087,20.062 -20.875,20.062 l -25.3125,0 z"
-         id="path22000"
-         inkscape:connector-curvature="0" />
+         inkscape:export-ydpi="90.337074"
+         inkscape:export-xdpi="90.337074"
+         inkscape:export-filename="/home/jakub/Projects/meego-handset-theme-darko/blanco/meegotouch/icons/meegotouch-list-background-pressed-vertical-top.png"
+         sodipodi:nodetypes="csssscc"
+         inkscape:connector-curvature="0"
+         id="rect4880"
+         d="m 1.262441,985.47486 0,48.16314 c 0,9.8487 8.5058079,17.7603 19.0625,17.7603 l 26.28125,0 c 10.556692,0 19.03125,-7.9116 19.03125,-17.7603 l 0,-48.05644 z"
+         style="fill:#dbdcdc;fill-opacity:1;stroke:none" />
     </g>
   </g>
 </svg>
