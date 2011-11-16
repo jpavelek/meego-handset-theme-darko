@@ -14,8 +14,8 @@
    height="64"
    id="svg13594"
    version="1.1"
-   inkscape:version="0.48.1 r9760"
-   sodipodi:docname="meegotouch-applicationpage-background.svg">
+   inkscape:version="0.48.2 r9819"
+   sodipodi:docname="meegotouch-menu-background.svg">
   <defs
      id="defs13596">
     <linearGradient
@@ -117,8 +117,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="14"
-     inkscape:cx="32"
-     inkscape:cy="32"
+     inkscape:cx="19.428571"
+     inkscape:cy="26.285714"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -135,7 +135,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -145,12 +145,12 @@
      id="layer1"
      transform="translate(0,-988.3622)">
     <rect
-       style="color:#000000;fill:#cecece;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       style="color:#000000;fill:#adb0b0;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        id="rect14255"
        width="64.065399"
-       height="64.779716"
+       height="64.136856"
        x="0"
        y="988.34631"
-       ry="0.42418081" />
+       ry="0.41997135" />
   </g>
 </svg>
