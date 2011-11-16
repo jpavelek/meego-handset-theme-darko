@@ -15,7 +15,7 @@
    id="svg6816"
    version="1.1"
    inkscape:version="0.48.2 r9819"
-   sodipodi:docname="meegotouch-button-navigationbar-button-background.svg">
+   sodipodi:docname="meegotouch-button-navigationbar-button-background-pressed.svg">
   <defs
      id="defs6818">
     <linearGradient
@@ -580,15 +580,15 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="8.4441377"
-     inkscape:cx="61.840154"
-     inkscape:cy="19.203134"
+     inkscape:zoom="15.102015"
+     inkscape:cx="34.613147"
+     inkscape:cy="21.361498"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="1556"
      inkscape:window-height="999"
-     inkscape:window-x="114"
+     inkscape:window-x="142"
      inkscape:window-y="24"
      inkscape:window-maximized="0" />
   <metadata
@@ -599,7 +599,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -609,43 +609,31 @@
      id="layer1"
      transform="translate(0,-1010.3622)">
     <g
-       transform="matrix(0.87432111,0,0,0.83159286,-0.50608554,177.37357)"
-       id="layer1-1"
-       inkscape:label="Layer 1"
-       inkscape:export-filename="/home/jakub/Projects/meego-handset-theme-darko/blanco/meegotouch/icons/meegotouch-button-navigationbar-button-background.png"
-       inkscape:export-xdpi="89.790001"
-       inkscape:export-ydpi="89.790001">
+       id="g6199">
       <rect
          inkscape:export-ydpi="90.996964"
          inkscape:export-xdpi="90.996964"
          inkscape:export-filename="/home/jakub/Projects/meego-handset-theme-darko/blanco/meegotouch/icons/meegotouch-button-background.png"
-         ry="18.097797"
-         rx="20.332376"
-         y="1001.7725"
-         x="0.67185533"
-         height="50.441242"
-         width="50.183804"
+         ry="15.049999"
+         rx="17.777025"
+         y="1010.4404"
+         x="0.08133176"
+         height="41.946575"
+         width="43.876759"
          id="rect5408"
-         style="opacity:0.39917698;fill:url(#linearGradient5537);fill-opacity:1;stroke:none" />
+         style="opacity:1;fill:#969696;fill-opacity:1;stroke:none" />
       <rect
          inkscape:export-ydpi="90.996964"
          inkscape:export-xdpi="90.996964"
          inkscape:export-filename="/home/jakub/Projects/meego-handset-theme-darko/blanco/meegotouch/icons/meegotouch-button-background.png"
-         style="fill:url(#linearGradient5534);fill-opacity:1;stroke:none"
+         style="fill:#aeaead;fill-opacity:1;stroke:none"
          id="rect4880"
-         width="46.830795"
-         height="47.521587"
-         x="2.3922048"
-         y="1002.9075"
-         rx="18.973877"
-         ry="17.050259" />
+         width="40.945152"
+         height="39.518612"
+         x="1.5854696"
+         y="1011.3843"
+         rx="16.589262"
+         ry="14.178873" />
     </g>
-    <image
-       y="1009.1407"
-       x="51.176891"
-       id="image7536"
-       xlink:href="file:///scratchbox/users/jakub/targets/HARMATTAN_X86/usr/share/themes/blanco/meegotouch/images/theme/basement/meegotouch-navigationbar-update/meegotouch-button-navigationbar-button-background-pressed.png"
-       height="42"
-       width="44" />
   </g>
 </svg>
