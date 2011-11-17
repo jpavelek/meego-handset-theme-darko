@@ -624,7 +624,7 @@
        x2="20.384951"
        y2="35.898129"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(2.8174597,1011.6178)" />
+       gradientTransform="matrix(1,0,0,1.2307119,-0.79484937,1008.856)" />
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient14125-1"
@@ -660,7 +660,7 @@
        xlink:href="#linearGradient14125-1"
        id="linearGradient4077"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(-3.5438862e-8,1014.4352)"
+       gradientTransform="matrix(1,0,0,1.2307119,-0.30927839,1008.8453)"
        x1="20.384951"
        y1="3.5349464"
        x2="20.384951"
@@ -670,7 +670,87 @@
        xlink:href="#linearGradient14125-1"
        id="linearGradient4081"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(-2.7203059,1017.1555)"
+       gradientTransform="matrix(1,0,0,1.2307119,-1.1223678,1009.2551)"
+       x1="20.384951"
+       y1="3.5349464"
+       x2="20.384951"
+       y2="35.898129" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient14125-1"
+       id="linearGradient4091"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1,0,0,1.2307119,1.0648824,1032.6459)"
+       x1="20.384951"
+       y1="3.5349464"
+       x2="20.384951"
+       y2="35.898129" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient14125-1"
+       id="linearGradient4108"
+       x1="18.180412"
+       y1="25.66511"
+       x2="18.180412"
+       y2="53.555878"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-0.97938141,990.8486)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient14125-1"
+       id="linearGradient4119"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-3.6597936,-18.14434)"
+       x1="18.180412"
+       y1="25.66511"
+       x2="18.180412"
+       y2="53.555878" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient14125-1"
+       id="linearGradient4121"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-0.97938141,-21.5464)"
+       x1="18.180412"
+       y1="25.66511"
+       x2="18.180412"
+       y2="53.555878" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient14125-1"
+       id="linearGradient4128"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(15.773196,1014.8692)"
+       x1="18.180412"
+       y1="25.66511"
+       x2="18.180412"
+       y2="53.555878" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient14125-1"
+       id="linearGradient4131"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-3.453608,996.36406)"
+       x1="18.180412"
+       y1="25.66511"
+       x2="18.180412"
+       y2="53.555878" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient14125-1"
+       id="linearGradient4133"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-0.26910553,992.962)"
+       x1="18.180412"
+       y1="25.66511"
+       x2="18.180412"
+       y2="53.555878" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient14125-1"
+       id="linearGradient4151"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1,0,0,1.2307119,-0.79484937,1008.856)"
        x1="20.384951"
        y1="3.5349464"
        x2="20.384951"
@@ -683,9 +763,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="10.29296"
-     inkscape:cx="35.179417"
-     inkscape:cy="13.93539"
+     inkscape:zoom="10.258701"
+     inkscape:cx="33.021125"
+     inkscape:cy="20.773167"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -718,49 +798,44 @@
        height="40"
        x="0.051546391"
        y="0.051546391"
-       transform="translate(0,1012.395)"
        ry="0"
-       inkscape:export-filename="/home/jakub/Projects/meego-handset-theme-darko/blanco/meegotouch/icons/icon-m-toolbar-done.png"
+       inkscape:export-filename="/home/jakub/Projects/meego-handset-theme-darko/blanco/meegotouch/icons/icon-m-toolbar-send-chat.png"
        inkscape:export-xdpi="90.129997"
-       inkscape:export-ydpi="90.129997" />
-    <path
-       style="fill:url(#linearGradient4053);fill-opacity:1;stroke:none"
-       d="m 14.53621,1018.9928 c -3.762104,0 -6.7812503,3.0504 -6.7812503,6.8125 l 0,4.5 c 0,3.4423 2.5306803,6.294 5.8437503,6.75 l -4.1875003,6.125 10.4687503,-6.0625 11.4375,0 c 3.762104,0 6.78125,-3.0504 6.78125,-6.8125 l 0,-4.5 c 0,-3.7621 -3.019146,-6.8125 -6.78125,-6.8125 l -16.78125,0 z"
-       id="rect4013"
-       inkscape:connector-curvature="0" />
-    <rect
-       style="fill:#ffffff;fill-opacity:1;stroke:none"
-       id="rect4040"
-       width="19.960838"
-       height="2.8809454"
-       x="12.797879"
-       y="1024.043"
-       ry="1.4404727" />
-    <rect
-       ry="1.4404727"
-       y="1028.8788"
-       x="12.797879"
-       height="2.8809454"
-       width="4.8358736"
-       id="rect4042"
-       style="fill:#ffffff;fill-opacity:1;stroke:none" />
-    <rect
-       style="fill:#ffffff;fill-opacity:1;stroke:none"
-       id="rect4044"
-       width="13.170038"
-       height="2.8809454"
-       x="19.177114"
-       y="1028.7759"
-       ry="1.4404727" />
-    <path
-       style="fill:url(#linearGradient4077);fill-opacity:1;stroke:none"
-       d="m 7.6651975,1023.1542 c -1.66204,1.2416 -2.71875,3.2273 -2.71875,5.4688 l 0,4.5 c 0,3.4423 2.53068,6.2941 5.8437495,6.75 l -4.1874995,6.125 10.4687505,-6.0625 11.4375,0 c 1.881052,0 3.556201,-0.7671 4.78125,-2 -1.121581,0.8268 -2.494748,1.3125 -4,1.3125 l -12.71875,0 -8.0312505,4.9062 3.3124995,-4.875 c -4.3817605,-0.6503 -6.1249995,-3.4014 -6.1249995,-6.8437 l 0,-4.5 c 0,-1.8655 0.730372,-3.5509 1.9375,-4.7813 z"
-       id="path4070"
-       inkscape:connector-curvature="0" />
-    <path
-       inkscape:connector-curvature="0"
-       id="path4079"
-       d="m 4.9448916,1025.8745 c -1.66204,1.2416 -2.71875,3.2273 -2.71875,5.4688 l 0,4.5 c 0,3.4423 2.53068,6.2941 5.84375,6.75 l -4.1875,6.125 10.4687504,-6.0625 11.4375,0 c 1.881052,0 3.556201,-0.7671 4.78125,-2 -1.121581,0.8268 -2.494748,1.3125 -4,1.3125 l -12.71875,0 -8.0312504,4.9062 3.3125,-4.875 c -4.381761,-0.6503 -6.125,-3.4014 -6.125,-6.8437 l 0,-4.5 c 0,-1.8655 0.730372,-3.5509 1.9375,-4.7813 z"
-       style="fill:url(#linearGradient4081);fill-opacity:1;stroke:none" />
+       inkscape:export-ydpi="90.129997"
+       transform="translate(0,1012.395)" />
+    <g
+       id="g4146"
+       transform="translate(0.68234761,2.6319122)">
+      <path
+         inkscape:export-ydpi="90.129997"
+         inkscape:export-xdpi="90.129997"
+         inkscape:export-filename="/home/jakub/Projects/meego-handset-theme-darko/blanco/meegotouch/icons/icon-m-toolbar-send-chat.png"
+         inkscape:connector-curvature="0"
+         id="rect4013"
+         d="m 10.923902,1017.9325 c -3.7621042,0 -6.7812513,3.7541 -6.7812513,8.3842 l 0,5.5382 c 0,4.2365 2.5306801,7.7461 5.8437511,8.3073 l -4.1875011,7.5381 10.4687513,-7.4611 11.4375,0 c 3.762104,0 6.78125,-3.7542 6.78125,-8.3843 l 0,-5.5382 c 0,-4.6301 -3.019146,-8.3842 -6.78125,-8.3842 l -16.78125,0 z"
+         style="fill:url(#linearGradient4151);fill-opacity:1;stroke:none" />
+      <rect
+         inkscape:export-ydpi="90.129997"
+         inkscape:export-xdpi="90.129997"
+         inkscape:export-filename="/home/jakub/Projects/meego-handset-theme-darko/blanco/meegotouch/icons/icon-m-toolbar-send-chat.png"
+         ry="1.8758998"
+         y="1022.8076"
+         x="9.5463953"
+         height="3.7517996"
+         width="19.960838"
+         id="rect4040"
+         style="fill:#ffffff;fill-opacity:1;stroke:none" />
+      <rect
+         style="fill:#ffffff;fill-opacity:1;stroke:none"
+         id="rect4093"
+         width="19.960838"
+         height="3.7517996"
+         x="9.5463953"
+         y="1030.7457"
+         ry="1.8758998"
+         inkscape:export-filename="/home/jakub/Projects/meego-handset-theme-darko/blanco/meegotouch/icons/icon-m-toolbar-send-chat.png"
+         inkscape:export-xdpi="90.129997"
+         inkscape:export-ydpi="90.129997" />
+    </g>
   </g>
 </svg>
