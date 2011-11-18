@@ -15,8 +15,8 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.2 r9819"
-   sodipodi:docname="meegotouch-text-editor-horizontal-left.svg"
-   inkscape:export-filename="/home/jakub/Projects/meego-handset-theme-darko/blanco/meegotouch/icons/meegotouch-text-editor-horizontal-left.png"
+   sodipodi:docname="meegotouch-text-editor-horizontal-right.svg"
+   inkscape:export-filename="/home/jakub/Projects/meego-handset-theme-darko/blanco/meegotouch/icons/meegotouch-text-editor-horizontal-right.png"
    inkscape:export-xdpi="90.129997"
    inkscape:export-ydpi="90.129997">
   <defs
@@ -2232,7 +2232,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="9.0232558"
-     inkscape:cx="32"
+     inkscape:cx="18.811856"
      inkscape:cy="43"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -2260,29 +2260,37 @@
      id="layer1"
      transform="translate(0,-966.395)">
     <g
-       id="g4989"
-       transform="matrix(-1,0,0,1,65.659467,-61.442864)">
-      <path
-         id="rect4468"
-         transform="translate(0,966.395)"
-         d="m 15.8125,75.6875 c -5.228584,0 -9.4375,3.35626 -9.4375,7.53125 l 0,41.21875 c 0,4.17499 4.208916,7.53125 9.4375,7.53125 l 48.59375,0 c 0.380712,0 0.756328,0.003 1.125,-0.0312 l 0,-56.1875 c -0.369619,-0.03484 -0.743273,-0.0625 -1.125,-0.0625 l -48.59375,0 z"
-         style="fill:#f8f8f8;fill-opacity:1;stroke:none;filter:url(#filter4930)"
-         inkscape:connector-curvature="0" />
-      <path
-         transform="translate(0,966.395)"
-         id="rect4944"
-         d="m 14.125,75.6875 c -4.2934902,0 -7.75,3.35626 -7.75,7.53125 l 0,41.21875 c 0,4.17499 3.4565098,7.53125 7.75,7.53125 l 51.40625,0 0,-56.28125 -51.40625,0 z"
-         style="fill:#f8f8f8;fill-opacity:1;stroke:none;filter:url(#filter4946)"
-         inkscape:connector-curvature="0" />
+       id="g9990"
+       transform="translate(0,-0.27189249)">
+      <g
+         transform="translate(0,0.88659794)"
+         id="g6528">
+        <g
+           id="g4989"
+           transform="matrix(-1,0,0,1,65.659467,-61.442864)">
+          <path
+             id="rect4468"
+             transform="translate(0,966.395)"
+             d="m 15.8125,75.6875 c -5.228584,0 -9.4375,3.35626 -9.4375,7.53125 l 0,41.21875 c 0,4.17499 4.208916,7.53125 9.4375,7.53125 l 48.59375,0 c 0.380712,0 0.756328,0.003 1.125,-0.0312 l 0,-56.1875 c -0.369619,-0.03484 -0.743273,-0.0625 -1.125,-0.0625 l -48.59375,0 z"
+             style="fill:#f8f8f8;fill-opacity:1;stroke:none"
+             inkscape:connector-curvature="0" />
+          <path
+             transform="translate(0,966.395)"
+             id="rect4944"
+             d="m 14.125,75.6875 c -4.2934902,0 -7.75,3.35626 -7.75,7.53125 l 0,41.21875 c 0,4.17499 3.4565098,7.53125 7.75,7.53125 l 51.40625,0 0,-56.28125 -51.40625,0 z"
+             style="fill:#f8f8f8;fill-opacity:1;stroke:none"
+             inkscape:connector-curvature="0" />
+        </g>
+        <rect
+           style="fill:#c5c6c6;fill-opacity:1;stroke:none"
+           id="rect5023"
+           width="1.1265439"
+           height="26.071444"
+           x="0.10728976"
+           y="995.96057"
+           rx="6.1883092"
+           ry="0" />
+      </g>
     </g>
-    <rect
-       style="fill:#c5c6c6;fill-opacity:1;stroke:none"
-       id="rect5023"
-       width="1.1265439"
-       height="26.071444"
-       x="0.10728976"
-       y="995.96057"
-       rx="6.1883092"
-       ry="0" />
   </g>
 </svg>
