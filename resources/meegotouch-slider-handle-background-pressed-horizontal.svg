@@ -145,6 +145,26 @@
        y1="1051.5979"
        x2="23.036972"
        y2="1009.9876" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient19869"
+       id="linearGradient3168"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.0093726,0,0,-1.0093726,8.9858339,2059.7122)"
+       x1="23.036972"
+       y1="1051.5979"
+       x2="23.036972"
+       y2="1009.9876" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4681"
+       id="linearGradient3170"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.66919635,0,0,0.66919635,8.5881488,-1700.7376)"
+       x1="33.28912"
+       y1="1048.1094"
+       x2="33.28912"
+       y2="989.6731" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -154,7 +174,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="9.484375"
-     inkscape:cx="20.084503"
+     inkscape:cx="7.5375508"
      inkscape:cy="32"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -172,7 +192,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -181,20 +201,24 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,-988.36218)">
-    <path
-       inkscape:connector-curvature="0"
-       id="path5813"
-       d="m 23.295298,1040.0898 c -7.293603,0 -13.170663,-5.881 -13.170663,-13.1707 l 0,-15.8368 c 0,-7.2896 5.87706,-13.17072 13.170663,-13.17072 l 15.933291,0 c 7.293602,0 13.170663,5.88112 13.170663,13.17072 l 0,15.8368 c 0,7.2897 -5.877061,13.1707 -13.170663,13.1707 l -15.933291,0 z m 0.546101,-1.4777 14.841089,0 c 6.783835,0 12.23908,-5.4588 12.23908,-12.239 l 0,-14.7448 c 0,-6.78 -5.455245,-12.239 -12.23908,-12.239 l -14.841089,0 c -6.783835,0 -12.23908,5.459 -12.23908,12.239 l 0,14.7448 c 0,6.7802 5.455245,12.239 12.23908,12.239 z"
-       style="color:#000000;fill:url(#linearGradient4170);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
-    <rect
-       style="color:#000000;fill:url(#linearGradient4167);fill-opacity:1.0;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       id="rect19018-3"
-       width="39.323978"
-       height="39.224426"
-       x="11.599955"
-       y="-1038.6129"
-       ry="12.238505"
-       rx="12.24519"
-       transform="scale(1,-1)" />
+    <g
+       id="g3164"
+       transform="translate(0.79077472,1.4142117)">
+      <path
+         style="color:#000000;fill:url(#linearGradient3168);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         d="m 23.295298,1040.0898 c -7.293603,0 -13.170663,-5.881 -13.170663,-13.1707 l 0,-15.8368 c 0,-7.2896 5.87706,-13.17072 13.170663,-13.17072 l 15.933291,0 c 7.293602,0 13.170663,5.88112 13.170663,13.17072 l 0,15.8368 c 0,7.2897 -5.877061,13.1707 -13.170663,13.1707 l -15.933291,0 z m 0.546101,-1.4777 14.841089,0 c 6.783835,0 12.23908,-5.4588 12.23908,-12.239 l 0,-14.7448 c 0,-6.78 -5.455245,-12.239 -12.23908,-12.239 l -14.841089,0 c -6.783835,0 -12.23908,5.459 -12.23908,12.239 l 0,14.7448 c 0,6.7802 5.455245,12.239 12.23908,12.239 z"
+         id="path5813"
+         inkscape:connector-curvature="0" />
+      <rect
+         transform="scale(1,-1)"
+         rx="12.24519"
+         ry="12.238505"
+         y="-1038.6129"
+         x="11.599955"
+         height="39.224426"
+         width="39.323978"
+         id="rect19018-3"
+         style="color:#000000;fill:url(#linearGradient3170);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    </g>
   </g>
 </svg>
