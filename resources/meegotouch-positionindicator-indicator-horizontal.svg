@@ -58,6 +58,46 @@
        x2="19.659969"
        y2="1047.849"
        gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       gradientUnits="userSpaceOnUse"
+       y2="1047.849"
+       x2="19.659969"
+       y1="1018.1735"
+       x1="19.412674"
+       id="linearGradient14228-6"
+       xlink:href="#linearGradient14125-2"
+       inkscape:collect="always" />
+    <linearGradient
+       gradientUnits="userSpaceOnUse"
+       y2="1046.9216"
+       x2="18.701702"
+       y1="1018.2354"
+       x1="18.578053"
+       id="linearGradient14131-5"
+       xlink:href="#linearGradient14125-2"
+       inkscape:collect="always" />
+    <linearGradient
+       id="linearGradient14125-2">
+      <stop
+         id="stop14127-6"
+         offset="0"
+         style="stop-color:#141414;stop-opacity:1;" />
+      <stop
+         id="stop14129-7"
+         offset="1"
+         style="stop-color:#505050;stop-opacity:0.90980393;" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient14257-0">
+      <stop
+         id="stop14259-4"
+         offset="0"
+         style="stop-color:#cecece;stop-opacity:1;" />
+      <stop
+         id="stop14261-6"
+         offset="1"
+         style="stop-color:#e8e8e8;stop-opacity:1;" />
+    </linearGradient>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -113,6 +153,6 @@
        height="3.8484275"
        width="9.6481476"
        id="rect14474"
-       style="color:#000000;fill:#505050;fill-opacity:0.3137255;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+       style="color:#000000;fill:#0d0d0d;fill-opacity:0.95686275;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
   </g>
 </svg>
