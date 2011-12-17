@@ -15,7 +15,10 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.2 r9819"
-   sodipodi:docname="meegotouch-theme-preview.svg">
+   sodipodi:docname="meegotouch-theme-preview.svg"
+   inkscape:export-filename="/home/jakub/Projects/meego-handset-theme-darko/meegotouch/images/meegotouch-theme-preview-portrait.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
   <defs
      id="defs4">
     <linearGradient
@@ -4647,8 +4650,8 @@
      fit-margin-bottom="0"
      inkscape:window-width="1728"
      inkscape:window-height="965"
-     inkscape:window-x="66"
-     inkscape:window-y="24"
+     inkscape:window-x="107"
+     inkscape:window-y="58"
      inkscape:window-maximized="0" />
   <metadata
      id="metadata7">
@@ -4658,7 +4661,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
