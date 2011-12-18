@@ -15,7 +15,10 @@
    id="svg13594"
    version="1.1"
    inkscape:version="0.48.2 r9819"
-   sodipodi:docname="meegotouch-list-background-selected.svg">
+   sodipodi:docname="meegotouch-list-background-selected.svg"
+   inkscape:export-filename="/home/jakub/Projects/meego-handset-theme-darko/blanco/meegotouch/icons/meegotouch-list-background-selected.png"
+   inkscape:export-xdpi="89.496986"
+   inkscape:export-ydpi="89.496986">
   <defs
      id="defs13596">
     <linearGradient
@@ -230,6 +233,16 @@
        y1="1010.3524"
        x2="21.125551"
        y2="1051.3677" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5412"
+       id="linearGradient9284"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.6234069,0,0,1.6160971,-0.84467383,-647.56344)"
+       x1="21.125551"
+       y1="1010.3524"
+       x2="21.125551"
+       y2="1051.3677" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -239,7 +252,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="7.7260466"
-     inkscape:cx="69.453781"
+     inkscape:cx="46.673696"
      inkscape:cy="32.835713"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -266,32 +279,29 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,-985.3622)">
-    <g
-       id="g4770">
-      <rect
-         inkscape:export-ydpi="90.996964"
-         inkscape:export-xdpi="90.996964"
-         inkscape:export-filename="/home/jakub/Projects/meego-handset-theme-darko/blanco/meegotouch/icons/meegotouch-button-background.png"
-         ry="17.53331"
-         rx="19.791586"
-         y="985.50946"
-         x="0.013350228"
-         height="66.795143"
-         width="66.754814"
-         id="rect5408"
-         style="opacity:0.39917698;fill:url(#linearGradient4768);fill-opacity:1;stroke:none" />
-      <rect
-         inkscape:export-ydpi="90.996964"
-         inkscape:export-xdpi="90.996964"
-         inkscape:export-filename="/home/jakub/Projects/meego-handset-theme-darko/blanco/meegotouch/icons/meegotouch-button-background.png"
-         style="fill:#1983dd;fill-opacity:1;stroke:none"
-         id="rect4880"
-         width="64.380859"
-         height="63.81152"
-         x="1.2586564"
-         y="986.61121"
-         rx="19.055401"
-         ry="17.516869" />
-    </g>
+    <rect
+       style="opacity:0.39917698;fill:url(#linearGradient9284);fill-opacity:1;stroke:none"
+       id="rect5408"
+       width="66.754814"
+       height="66.795143"
+       x="0.013350228"
+       y="985.50946"
+       rx="19.791586"
+       ry="17.53331"
+       inkscape:export-filename="/home/jakub/Projects/meego-handset-theme-darko/blanco/meegotouch/icons/meegotouch-button-background.png"
+       inkscape:export-xdpi="90.996964"
+       inkscape:export-ydpi="90.996964" />
+    <rect
+       ry="17.516869"
+       rx="19.055401"
+       y="986.61121"
+       x="1.2586564"
+       height="63.81152"
+       width="64.380859"
+       id="rect4880"
+       style="fill:#7bb545;fill-opacity:1;stroke:none"
+       inkscape:export-filename="/home/jakub/Projects/meego-handset-theme-darko/blanco/meegotouch/icons/meegotouch-button-background.png"
+       inkscape:export-xdpi="90.996964"
+       inkscape:export-ydpi="90.996964" />
   </g>
 </svg>

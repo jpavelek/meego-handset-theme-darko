@@ -15,7 +15,10 @@
    id="svg5569"
    version="1.1"
    inkscape:version="0.48.2 r9819"
-   sodipodi:docname="meegotouch-switch-on.svg">
+   sodipodi:docname="meegotouch-switch-shadow.svg"
+   inkscape:export-filename="/home/jakub/Projects/meego-handset-theme-darko/blanco/meegotouch/icons/meegotouch-switch-shadow.png"
+   inkscape:export-xdpi="90.129997"
+   inkscape:export-ydpi="90.129997">
   <defs
      id="defs5571">
     <linearGradient
@@ -309,6 +312,18 @@
        y1="1034.3325"
        x2="34.294876"
        y2="1010.3981" />
+    <filter
+       inkscape:collect="always"
+       id="filter11041"
+       x="-0.18"
+       width="1.36"
+       y="-0.18"
+       height="1.36">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="2.2316275"
+         id="feGaussianBlur11043" />
+    </filter>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -318,7 +333,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="9.1893939"
-     inkscape:cx="55.283406"
+     inkscape:cx="36.02207"
      inkscape:cy="10.990849"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -346,13 +361,28 @@
      id="layer1"
      transform="translate(0,-1018.3622)">
     <rect
-       style="fill:#000000;fill-opacity:0.25490196;stroke:none"
+       inkscape:export-ydpi="90.129997"
+       inkscape:export-xdpi="90.129997"
+       inkscape:export-filename="/home/jakub/Projects/meego-handset-theme-darko/blanco/meegotouch/icons/meegotouch-switch-thumb.png"
+       ry="14.877517"
+       rx="14.845946"
+       y="1020.7687"
+       x="2.0323298"
+       height="29.755033"
+       width="29.755033"
+       id="rect10527"
+       style="fill:#000000;fill-opacity:1;stroke:none;filter:url(#filter11041)" />
+    <rect
+       style="fill:#808080;fill-opacity:1;stroke:none"
        id="rect6579"
-       width="33.625721"
-       height="33.625721"
-       x="0.10882148"
-       y="1018.6277"
-       rx="16.193567"
-       ry="13.777788" />
+       width="29.755033"
+       height="29.755033"
+       x="2.0323298"
+       y="1020.7687"
+       rx="14.845946"
+       ry="14.877517"
+       inkscape:export-filename="/home/jakub/Projects/meego-handset-theme-darko/blanco/meegotouch/icons/meegotouch-switch-thumb.png"
+       inkscape:export-xdpi="90.129997"
+       inkscape:export-ydpi="90.129997" />
   </g>
 </svg>

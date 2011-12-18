@@ -53,7 +53,7 @@
          offset="0"
          id="stop19008-9" />
       <stop
-         style="stop-color:#cecece;stop-opacity:1;"
+         style="stop-color:#a0a0a0;stop-opacity:1;"
          offset="1"
          id="stop19010-8" />
     </linearGradient>
@@ -157,6 +157,27 @@
        y1="1048.1094"
        x2="33.28912"
        y2="989.6731" />
+    <filter
+       inkscape:collect="always"
+       id="filter3950"
+       x="-0.17863292"
+       width="1.3572658"
+       y="-0.18138817"
+       height="1.3627763">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="3.2113974"
+         id="feGaussianBlur3952" />
+    </filter>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient19006-4"
+       id="linearGradient3962"
+       x1="31.841846"
+       y1="999.90753"
+       x2="31.653738"
+       y2="1041.9768"
+       gradientUnits="userSpaceOnUse" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -166,7 +187,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="9.484375"
-     inkscape:cx="0.79077478"
+     inkscape:cx="10.477574"
      inkscape:cy="32"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -184,7 +205,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -193,24 +214,32 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,-988.36218)">
-    <g
-       id="g3136"
-       transform="translate(0.73805816,1.3087725)">
-      <path
-         style="color:#000000;fill:url(#linearGradient3142);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-         d="m 23.295298,1040.0898 c -7.293603,0 -13.170663,-5.881 -13.170663,-13.1707 l 0,-15.8368 c 0,-7.2896 5.87706,-13.17072 13.170663,-13.17072 l 15.933291,0 c 7.293602,0 13.170663,5.88112 13.170663,13.17072 l 0,15.8368 c 0,7.2897 -5.877061,13.1707 -13.170663,13.1707 l -15.933291,0 z m 0.546101,-1.4777 14.841089,0 c 6.783835,0 12.23908,-5.4588 12.23908,-12.239 l 0,-14.7448 c 0,-6.78 -5.455245,-12.239 -12.23908,-12.239 l -14.841089,0 c -6.783835,0 -12.23908,5.459 -12.23908,12.239 l 0,14.7448 c 0,6.7802 5.455245,12.239 12.23908,12.239 z"
-         id="path5813"
-         inkscape:connector-curvature="0" />
-      <rect
-         transform="scale(1,-1)"
-         rx="12.24519"
-         ry="12.238505"
-         y="-1038.6129"
-         x="11.599955"
-         height="39.224426"
-         width="39.323978"
-         id="rect19018-3"
-         style="color:#000000;fill:url(#linearGradient3144);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
-    </g>
+    <rect
+       ry="21.24547"
+       rx="21.573162"
+       y="1001.7494"
+       x="10.227349"
+       height="42.49094"
+       width="43.146324"
+       id="rect3948"
+       style="color:#000000;fill:#000100;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.9646073;marker:none;visibility:visible;display:inline;overflow:visible;filter:url(#filter3950);enable-background:accumulate" />
+    <rect
+       style="color:#000000;fill:url(#linearGradient3962);fill-opacity:1.0;fill-rule:nonzero;stroke:none;stroke-width:0.96460729999999995;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect3178"
+       width="43.146324"
+       height="42.49094"
+       x="10.227349"
+       y="999.74939"
+       rx="21.573162"
+       ry="21.24547" />
+    <rect
+       ry="18.978584"
+       rx="19.271311"
+       y="1002.0163"
+       x="12.529201"
+       height="37.957169"
+       width="38.542622"
+       id="rect3954"
+       style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.9646073;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
   </g>
 </svg>

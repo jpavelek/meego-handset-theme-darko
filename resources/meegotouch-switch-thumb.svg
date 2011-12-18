@@ -269,6 +269,14 @@
        y1="1010.8201"
        x2="30.15486"
        y2="1034.5488" />
+    <filter
+       inkscape:collect="always"
+       id="filter10358">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="1.0889521"
+         id="feGaussianBlur10360" />
+    </filter>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -277,16 +285,16 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="9.1893939"
-     inkscape:cx="55.283406"
-     inkscape:cy="10.990849"
+     inkscape:zoom="21.33349"
+     inkscape:cx="7.5291207"
+     inkscape:cy="13.983512"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="1726"
      inkscape:window-height="934"
-     inkscape:window-x="68"
-     inkscape:window-y="24"
+     inkscape:window-x="112"
+     inkscape:window-y="67"
      inkscape:window-maximized="0" />
   <metadata
      id="metadata5574">
@@ -308,13 +316,13 @@
     <rect
        style="fill:#ffffff;fill-opacity:1;stroke:none"
        id="rect6579"
-       width="29.70816"
-       height="29.70816"
-       x="0.10882187"
-       y="1022.4364"
-       rx="14.306938"
-       ry="12.172609"
-       inkscape:export-filename="/home/jakub/Projects/meego-handset-theme-darko/blanco/meegotouch/icons/meegotouch-switch-shadow.png"
+       width="29.755033"
+       height="29.755033"
+       x="0.15569651"
+       y="1022.4833"
+       rx="14.845946"
+       ry="14.877517"
+       inkscape:export-filename="/home/jakub/Projects/meego-handset-theme-darko/blanco/meegotouch/icons/meegotouch-switch-thumb.png"
        inkscape:export-xdpi="90.129997"
        inkscape:export-ydpi="90.129997" />
   </g>
