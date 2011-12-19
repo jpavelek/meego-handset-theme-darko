@@ -22,6 +22,17 @@
   <defs
      id="defs5571">
     <linearGradient
+       id="linearGradient4331">
+      <stop
+         style="stop-color:#7bdc45;stop-opacity:1;"
+         offset="0"
+         id="stop4333" />
+      <stop
+         style="stop-color:#7bb545;stop-opacity:1;"
+         offset="1"
+         id="stop4335" />
+    </linearGradient>
+    <linearGradient
        id="linearGradient12826">
       <stop
          style="stop-color:#6699ff;stop-opacity:1;"
@@ -263,6 +274,15 @@
        y1="1010.8201"
        x2="30.15486"
        y2="1034.5488" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4331"
+       id="linearGradient4337"
+       x1="32.375187"
+       y1="1010.6851"
+       x2="32.375187"
+       y2="1050.2981"
+       gradientUnits="userSpaceOnUse" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -272,7 +292,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="9.484375"
-     inkscape:cx="14.811624"
+     inkscape:cx="32.632619"
      inkscape:cy="30.238995"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -300,7 +320,7 @@
      id="layer1"
      transform="translate(0,-1010.3622)">
     <rect
-       style="fill:#7bb545;fill-opacity:1;stroke:none"
+       style="fill:url(#linearGradient4337);fill-opacity:1;stroke:none"
        id="rect12716"
        width="63.156445"
        height="41.331139"
