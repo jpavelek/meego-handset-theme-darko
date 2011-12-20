@@ -15,7 +15,10 @@
    id="svg13594"
    version="1.1"
    inkscape:version="0.48.2 r9819"
-   sodipodi:docname="icon-m-toolbar-back.svg">
+   sodipodi:docname="icon-m-toolbar-back.svg"
+   inkscape:export-filename="/home/jakub/Projects/meego-handset-theme-darko/blanco/meegotouch/icons/icon-m-toolbar-back.png"
+   inkscape:export-xdpi="89.790001"
+   inkscape:export-ydpi="89.790001">
   <defs
      id="defs13596">
     <linearGradient
@@ -246,7 +249,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="11.776119"
-     inkscape:cx="18.469581"
+     inkscape:cx="3.5240799"
      inkscape:cy="23.956794"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -264,7 +267,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -274,12 +277,12 @@
      id="layer1"
      transform="translate(0,-1000.3622)">
     <path
-       style="color:#000000;fill:url(#linearGradient15444);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       style="color:#000000;fill:url(#linearGradient15444);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;opacity:0.5"
        d="m 16.412976,1051.6864 c -8.6943019,0 -15.70002044,-7.0104 -15.70002044,-15.7001 l 0,-18.8782 c 0,-8.6895 7.00571854,-15.7001 15.70002044,-15.7001 l 18.993196,0 c 8.6943,0 15.700019,7.0106 15.700019,15.7001 l 0,18.8782 c 0,8.6897 -7.005719,15.7001 -15.700019,15.7001 l -18.993196,0 z m 0.650977,-1.7615 17.691242,0 c 8.086635,0 14.589531,-6.5071 14.589531,-14.5895 l 0,-17.5763 c 0,-8.0822 -6.502896,-14.5895 -14.589531,-14.5895 l -17.691242,0 c -8.0866354,0 -14.5895318,6.5073 -14.5895318,14.5895 l 0,17.5763 c 0,8.0824 6.5028964,14.5895 14.5895318,14.5895 z"
        id="rect18964-9"
        inkscape:connector-curvature="0" />
     <rect
-       style="color:#000000;fill:url(#linearGradient15441);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       style="color:#000000;fill:url(#linearGradient15441);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;opacity:0.5"
        id="rect19018-3"
        width="46.875942"
        height="46.757275"
