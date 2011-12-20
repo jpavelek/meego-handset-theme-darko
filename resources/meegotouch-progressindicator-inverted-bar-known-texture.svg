@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="8"
+   height="9"
+   id="svg9540"
+   version="1.1"
+   inkscape:version="0.48.2 r9819"
+   sodipodi:docname="meegotouch-progressindicator-inverted-bar-known-texture.svg"
+   inkscape:export-filename="/home/jakub/Projects/meego-handset-theme-darko/blanco/meegotouch/icons/meegotouch-progressindicator-inverted-bar-known-texture.png"
+   inkscape:export-xdpi="89.496986"
+   inkscape:export-ydpi="89.496986">
+  <defs
+     id="defs9542" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="69.028735"
+     inkscape:cx="5.5599525"
+     inkscape:cy="4.5115384"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1631"
+     inkscape:window-height="927"
+     inkscape:window-x="114"
+     inkscape:window-y="69"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata9545">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-1043.3622)">
+    <rect
+       style="fill:#52ff00;fill-opacity:0.25098041;stroke:none"
+       id="rect10086"
+       width="7.9730768"
+       height="9.023077"
+       x="0.011538462"
+       y="1043.3391" />
+    <rect
+       y="1044.3776"
+       x="0.011538462"
+       height="7.9846153"
+       width="7.9730768"
+       id="rect10090"
+       style="fill:#529219;fill-opacity:1;stroke:none" />
+    <rect
+       style="fill:#5f9b25;fill-opacity:1;stroke:none"
+       id="rect10092"
+       width="7.9730768"
+       height="6.0115385"
+       x="0.011538462"
+       y="1045.3468" />
+    <rect
+       y="1046.316"
+       x="0.011538462"
+       height="5.0538464"
+       width="7.9730768"
+       id="rect10094"
+       style="fill:#6ea532;fill-opacity:1;stroke:none" />
+    <rect
+       style="fill:#7bb545;fill-opacity:1;stroke:none"
+       id="rect10096"
+       width="7.9730768"
+       height="3.023077"
+       x="0.011538462"
+       y="1047.3199" />
+  </g>
+</svg>
