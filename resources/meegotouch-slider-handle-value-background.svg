@@ -15,7 +15,10 @@
    id="svg11365"
    version="1.1"
    inkscape:version="0.48.2 r9819"
-   sodipodi:docname="meegotouch-slider-handle-value-background.svg">
+   sodipodi:docname="meegotouch-slider-handle-value-background.svg"
+   inkscape:export-filename="/home/jakub/Projects/meego-handset-theme-darko/blanco/meegotouch/icons/meegotouch-slider-handle-value-background.png"
+   inkscape:export-xdpi="90.129997"
+   inkscape:export-ydpi="90.129997">
   <defs
      id="defs11367">
     <linearGradient
@@ -92,8 +95,8 @@
        height="31.743284"
        x="0.46955895"
        y="-1052.3312"
-       ry="9.9042969"
-       rx="12.238632"
+       ry="6.0590534"
+       rx="5.9723101"
        transform="scale(1,-1)"
        inkscape:export-filename="/home/jakub/Projects/meego-handset-theme-darko/blanco/meegotouch/icons/meegotouch-slider-handle-value-background.png"
        inkscape:export-xdpi="91.596252"
