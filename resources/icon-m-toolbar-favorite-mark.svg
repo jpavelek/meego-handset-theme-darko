@@ -391,6 +391,46 @@
        y1="-12.068874"
        x2="7.9393697"
        y2="19.952763" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient14125-1"
+       id="linearGradient6689"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.95731144,0,0,0.95731144,12.283288,1028.4601)"
+       x1="7.9393697"
+       y1="-12.068874"
+       x2="7.9393697"
+       y2="19.952763" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient14125-1"
+       id="linearGradient6062"
+       x1="19.589899"
+       y1="1018.7553"
+       x2="19.589899"
+       y2="1046.8899"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       id="linearGradient14125-1">
+      <stop
+         id="stop14127-5"
+         offset="0"
+         style="stop-color:#141414;stop-opacity:1;" />
+      <stop
+         id="stop14129-4"
+         offset="1"
+         style="stop-color:#505050;stop-opacity:0.90980393;" />
+    </linearGradient>
+    <linearGradient
+       gradientTransform="translate(40.106056,0.43059632)"
+       y2="1046.8899"
+       x2="19.589899"
+       y1="1018.7553"
+       x1="19.589899"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient6707"
+       xlink:href="#linearGradient14125-1"
+       inkscape:collect="always" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -400,7 +440,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="12.352661"
-     inkscape:cx="29.111282"
+     inkscape:cx="14.86334"
      inkscape:cy="19.581502"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -427,22 +467,23 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,-1012.3622)">
-    <g
-       id="g5284"
-       transform="matrix(0.95731144,0,0,0.95731144,1.2710506,44.725681)">
-      <path
-         inkscape:connector-curvature="0"
-         id="path5026"
-         d="m 3.3192449,1027.8105 -0.09375,1.0312 8.4375001,7.5 0.25,-0.9375 -8.5937501,-7.5937 z m 31.9375001,0.031 -8.375,7.5625 0.28125,0.9063 8.25,-7.4688 -0.125,-1 -0.03125,0 z m -15.625,11.9375 -10.4375001,7.4375 -0.34375,1.375 10.7812501,-7.6875 10.78125,7.6875 -0.40625,-1.4375 -10.375,-7.375 z"
-         style="color:#000000;fill:#f0f2f2;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.9646073;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
-      <path
-         style="color:#000000;fill:url(#linearGradient5288);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.9646073;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-         inkscape:transform-center-x="0.04659082"
-         inkscape:transform-center-y="-1.4573839"
-         d="m 30.485632,1047.639 -10.783438,-7.6881 -10.7834368,7.6881 3.0494848,-12.0527 -8.6794158,-7.7127 11.5143798,0 4.747451,-12.3916 4.747451,12.3916 11.166043,0 -8.539644,7.7127 z"
-         id="path5030"
-         inkscape:connector-curvature="0"
-         sodipodi:nodetypes="ccccccccccc" />
-    </g>
+    <path
+       style="color:#000000;fill:#f0f2f2;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.9646073;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 4.4486017,1028.6604 -0.089748,0.9872 8.0773152,7.1798 0.239328,-0.8974 -8.2268953,-7.2696 z m 30.5741343,0.03 -8.017483,7.2397 0.269243,0.8676 7.89782,-7.15 -0.119664,-0.9573 -0.02992,0 z m -14.957991,11.4279 -9.991939,7.12 -0.3290754,1.3163 10.3210144,-7.3593 10.321014,7.3593 -0.388908,-1.3761 -9.932106,-7.0602 z"
+       id="path5026"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="89.790001"
+       inkscape:export-ydpi="89.790001" />
+    <path
+       sodipodi:nodetypes="ccccccccccc"
+       inkscape:connector-curvature="0"
+       id="path5030"
+       d="m 30.455295,1047.6425 -10.323109,-7.3599 -10.3231071,7.3599 2.9193071,-11.5382 -8.3089045,-7.3835 11.0228475,0 4.544789,-11.8626 4.544789,11.8626 10.689381,0 -8.175099,7.3835 z"
+       inkscape:transform-center-y="-1.4573839"
+       inkscape:transform-center-x="0.04659082"
+       style="color:#000000;fill:url(#linearGradient6689);fill-opacity:1.0;fill-rule:nonzero;stroke:none;stroke-width:0.96460729999999995;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       inkscape:export-filename="/home/jakub/Projects/meego-handset-theme-darko/resources/path5026.png"
+       inkscape:export-xdpi="89.790001"
+       inkscape:export-ydpi="89.790001" />
   </g>
 </svg>
